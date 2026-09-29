@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "casinos": "Sòng bài",
+    "games": "Trò chơi"
+  },
+  "hero": {
+    "title": "Sòng Bài Trực Tuyến Tốt Nhất 2026",
+    "subtitle": "Tìm sòng bài hoàn hảo cho bạn với đánh giá chuyên gia, kiểm tra thực tế, xếp hạng quốc tế, minh bạch và có thể xác minh, cộng với tiền thưởng miễn phí và khuyến mãi độc quyền —",
+    "subtitle2": "ACEPlay dẫn đầu ngành công nghiệp chơi game trực tuyến!",
+    "allCasinos": "Tất cả Sòng bài"
+  },
+  "sections": {
+    "topCasinos": "Sòng bài hàng đầu Thái Lan",
+    "topCasinosBangladesh": "Sòng bài hàng đầu ở Bangladesh",
+    "topCasinosPhilippines": "Sòng bài hàng đầu ở Philippines",
+    "topCasinosDesc": "Chúng tôi đã xem xét các ưu đãi thưởng mới nhất từ các sòng bài trực tuyến hàng đầu. Các chuyên gia của chúng tôi so sánh các ưu đãi phổ biến như tiền thưởng chào mừng và ưu đãi không cần nạp tiền.",
+    "popularGames": "Trò chơi phổ biến Thái Lan",
+    "popularGamesBangladesh": "Trò chơi hay nhất ở Bangladesh",
+    "popularGamesPhilippines": "Trò chơi hay nhất ở Philippines",
+    "popularGamesDesc": "Chúng tôi đã xem xét các ưu đãi thưởng mới nhất từ các sòng bài trực tuyến hàng đầu.",
+    "promotions": "Khuyến mãi độc quyền với tiền thưởng hào phóng",
+    "promotionsDesc": "Chúng tôi đã xem xét các ưu đãi thưởng mới nhất từ các sòng bài trực tuyến hàng đầu.",
+    "beginnerGuide": "Hướng Dẫn Người Mới Bắt Đầu Cược Trực Tuyến",
+    "beginnerGuideDesc": "Mới với sòng bài trực tuyến? Bắt đầu với các hướng dẫn đơn giản của chúng tôi để tìm hiểu cách thức hoạt động của tiền thưởng.",
+    "discoverMore": "Khám phá thêm",
+    "guideLabel": "Hướng dẫn"
+  },
+  "guides": {
+    "g1": { "title": "Chọn sòng bài đáng tin cậy.", "description": "Chọn trang web đáng tin cậy, có điểm đánh giá cao, công bằng và cung cấp giao dịch an toàn." },
+    "g2": { "title": "Tìm hiểu về lợi ích của bạn.", "description": "Hiểu các ưu đãi của từng nền tảng, chẳng hạn như hoàn tiền, phần thưởng VIP và khuyến mãi hàng ngày." },
+    "g3": { "title": "Nhận tiền thưởng chào mừng.", "description": "Tăng khoản nạp đầu tiên của bạn với ưu đãi tiền thưởng chào mừng dành cho thành viên mới." },
+    "g4": { "title": "Nạp tiền an toàn.", "description": "Sử dụng phương thức thanh toán an toàn và mã hóa để nạp tiền vào tài khoản casino của bạn." },
+    "g5": { "title": "Khám phá và chơi trò chơi.", "description": "Thưởng thức các trò chơi phổ biến như máy đánh bạc, bắn cá, casino trực tiếp, cá cược thể thao và nhiều hơn nữa." },
+    "g6": { "title": "Rút tiền thắng cược.", "description": "Rút tiền dễ dàng, với các tùy chọn thanh toán nhanh và an toàn." }
+  },
+  "casino": {
+    "pageTitle": "Tìm sòng bài đáng tin cậy gần bạn.",
+    "pageDesc": "Khám phá các sòng bài được chúng tôi khuyến nghị tại quốc gia của bạn! Tận hưởng các khuyến mãi hấp dẫn, hệ thống an toàn và nạp - rút tiền dễ dàng, nhanh chóng.",
+    "payment": "Thanh toán",
+    "topCasinos": "Sòng bài hàng đầu",
+    "findLocalCasino": "Tìm sòng bài địa phương",
+    "deposit": "Nạp tiền",
+    "bonus": "Tiền thưởng",
+    "receive": "Nhận",
+    "depositRange": "Mức nạp tiền",
+    "withdrawalRange": "Mức rút tiền",
+    "viewMore": "Xem thêm",
+    "getPromotion": "Nhận khuyến mãi ngay",
+    "popularCasinosDesc": "Chúng tôi đã xem xét các ưu đãi thưởng mới nhất từ các sòng bài trực tuyến hàng đầu, so sánh các ưu đãi tuyệt vời như tiền thưởng chào mừng và khuyến mãi không cần nạp tiền.",
+    "popularCasinosThailand": "Sòng bài phổ biến ở Thái Lan",
+    "popularCasinosBangladesh": "Sòng bài phổ biến ở Bangladesh",
+    "popularCasinosPhilippines": "Sòng bài phổ biến ở Philippines",
+    "alternativeLink": "Liên kết thay thế",
+    "viewAllPromotions": "Xem tất cả khuyến mãi",
+    "joinPromotion": "Tham gia Khuyến mãi",
+    "newMembersWith": "Thành viên mới với",
+    "bahtForFree": "baht miễn phí.",
+    "gameCategories": "Danh mục trò chơi",
+    "jackpot": "Jackpot",
+    "vipClub": "CLB VIP",
+    "exclusiveRewards": "Phần thưởng độc quyền",
+    "celebrateVictory": "Ăn mừng chiến thắng lớn của bạn tại",
+    "popularGameNationwide": "Trò chơi phổ biến được người chơi trên toàn quốc yêu thích.",
+    "dontMissPromotion": "Đừng bỏ lỡ chương trình khuyến mãi đặc biệt tuyệt vời này!",
+    "notFound": "Không tìm thấy sòng bài.",
+    "backToThailand": "Quay lại sòng bài Thái Lan",
+    "breadcrumbThailand": "Thái Lan",
+    "catVpn": "VPN",
+    "catHotGames": "Trò chơi nóng",
+    "catLiveCasino": "Casino trực tiếp",
+    "catSlots": "Máy đánh bạc",
+    "catSport": "Thể thao",
+    "catFishGames": "Bắn cá",
+    "catLottery": "Xổ số"
+  },
+  "country": {
+    "thailand": "Sòng bài ở Thái Lan",
+    "bangladesh": "Sòng bài ở Bangladesh",
+    "philippines": "Sòng bài ở Philippines"
+  },
+  "promo": {
+    "turnover": "Doanh thu cược",
+    "totalWins": "Tổng tiền thắng",
+    "maxWithdrawal": "Rút tối đa",
+    "gameType": "Loại trò chơi",
+    "joinNow": "Tham gia ngay",
+    "allPromotions": "Tất cả khuyến mãi"
+  },
+  "common": {
+    "more": "Thêm"
+  },
+  "games": {
+    "pageTitle": "Tìm trò chơi tốt nhất cho bạn",
+    "pageDesc": "Khám phá các trò chơi trực tuyến phổ biến nhất bao gồm máy đánh bạc, sòng bài trực tiếp, trò chơi câu cá, trò chơi bàn, cá cược thể thao và nhiều hơn nữa.",
+    "searchPlaceholder": "Tìm kiếm trò chơi hoặc nhà cung cấp",
+    "allProviders": "Tất cả nhà cung cấp",
+    "winningRate": "Tỷ lệ thắng",
+    "highestWinning": "Thắng cao nhất",
+    "bet": "Cược",
+    "win": "Thắng",
+    "playNow": "Chơi ngay",
+    "moreReviews": "Xem thêm đánh giá",
+    "gameOverview": "Tổng quan trò chơi",
+    "howToPlay": "Cách chơi",
+    "notFound": "Không tìm thấy trò chơi.",
+    "volatility": "Độ biến động",
+    "released": "Ngày phát hành",
+    "rtp": "Tỷ lệ hoàn trả",
+    "backToGames": "Quay lại trò chơi",
+    "categories": {
+      "all": "Tất cả trò chơi",
+      "slots": "Máy đánh bạc",
+      "live": "Sòng bài trực tiếp",
+      "table": "Trò chơi bàn",
+      "fishing": "Câu cá",
+      "sports": "Thể thao",
+      "other": "Khác"
+    }
+  },
+  "gameDetails": {
+    "super-ace": {
+      "shortDescription": "Máy đánh bạc phổ biến nhất Đông Nam Á với cơ chế dựa trên bài và các số nhân khổng lồ.",
+      "overview": "Super ACE là trò chơi máy đánh bạc biến động trung bình được phát triển bởi JILI. Với RTP 97% và xếp hạng người chơi 4.8/5, đây là một trong những tựa game phổ biến nhất trong dòng sản phẩm JILI. Các tính năng chính bao gồm Vòng quay miễn phí, Số nhân và Lá bài Wild.",
+      "howToPlay": [
+        { "title": "Chọn cược của bạn", "description": "Đặt số tiền cược ưa thích trước khi quay cuộn." },
+        { "title": "Quay và theo dõi thắng", "description": "Nhấn nút quay và theo dõi các biểu tượng bài phù hợp và wild có thể kích hoạt phần thưởng lớn." },
+        { "title": "Kích hoạt vòng quay miễn phí", "description": "Xuất hiện các biểu tượng scatter cần thiết để mở khóa vòng quay miễn phí với số nhân tăng dần." }
+      ]
+    },
+    "fortune-rabbit": {
+      "shortDescription": "Máy đánh bạc quyến rũ lấy cảm hứng từ Năm Thỏ, cung cấp các tính năng bất ngờ và tiềm năng thắng lớn.",
+      "overview": "Fortune Rabbit từ PG Soft kết hợp phong cách nghệ thuật đáng yêu với cơ chế trao thưởng. Trò chơi tập trung vào lối chơi đơn giản với các tính năng ngẫu nhiên có thể tăng cường chiến thắng của bạn.",
+      "howToPlay": [
+        { "title": "Đặt mức cược", "description": "Điều chỉnh kích thước cược phù hợp với ngân sách trước khi bắt đầu quay." },
+        { "title": "Kích hoạt tính năng bonus", "description": "Quay để xuất hiện tổ hợp thắng và theo dõi các tính năng bonus ngẫu nhiên." },
+        { "title": "Quản lý phiên chơi", "description": "Sử dụng giới hạn thắng thua để giữ phiên chơi vui vẻ và kiểm soát được." }
+      ]
+    },
+    "caishen-wins": {
+      "shortDescription": "Máy đánh bạc chủ đề châu Á được yêu thích với Thần Tài và tính năng vòng quay miễn phí thú vị.",
+      "overview": "Caishen Wins kết hợp hình ảnh sống động với lối chơi hấp dẫn. Leo lên các bậc thang đền để mở khóa vòng quay miễn phí và số nhân.",
+      "howToPlay": [
+        { "title": "Chọn mức cược", "description": "Sử dụng điều khiển cược để đặt mức cược dựa trên ngân sách của bạn." },
+        { "title": "Thu thập biểu tượng thắng", "description": "Quay cuộn để thu thập tổ hợp thắng. Biểu tượng đặc biệt giúp mở khóa vòng quay miễn phí và số nhân cao hơn." },
+        { "title": "Vào chế độ vòng quay miễn phí", "description": "Xuất hiện biểu tượng scatter để kích hoạt vòng quay miễn phí, nơi số nhân có thể tăng đáng kể tổng tiền thắng." }
+      ]
+    },
+    "sexy-baccarat": {
+      "shortDescription": "Bàn baccarat có người chia bài trực tiếp với chủ bài chuyên nghiệp, cược phụ và phát trực tiếp.",
+      "overview": "Sexy Baccarat Classic là trải nghiệm baccarat trực tiếp được phát trực tuyến HD với người chia bài thân thiện và khung cảnh studio phong cách.",
+      "howToPlay": [
+        { "title": "Tham gia bàn trực tiếp", "description": "Mở trò chơi và chờ vòng đặt cược tiếp theo bắt đầu trước khi đặt chip." },
+        { "title": "Đặt cược", "description": "Chọn giữa Người chơi, Nhà cái, Hòa hoặc cược phụ có sẵn, sau đó xác nhận trước khi hết giờ." },
+        { "title": "Xem kết quả", "description": "Người chia bài rút bài và bên có tổng điểm gần 9 nhất chiến thắng. Thanh toán được thực hiện tự động." }
+      ]
+    },
+    "jackpot-joker": {
+      "shortDescription": "Máy đánh bạc phong cách cổ điển với đồ họa hiện đại và cơ hội giành chiến thắng jackpot ấn tượng.",
+      "overview": "Jackpot Joker mang đến trải nghiệm máy đánh bạc quen thuộc với các biểu tượng nổi bật và cơ chế đơn giản, tập trung vào việc giành chiến thắng lớn hơn thông qua các biểu tượng xếp chồng và tính năng bonus.",
+      "howToPlay": [
+        { "title": "Điều chỉnh giá trị xu", "description": "Chọn giá trị xu và số dòng để đặt tổng cược mỗi lần quay." },
+        { "title": "Quay và khớp biểu tượng", "description": "Nhấn quay và xuất hiện các biểu tượng phù hợp trên các dòng trả thưởng từ trái sang phải." },
+        { "title": "Nhắm đến thắng kiểu jackpot", "description": "Theo dõi các biểu tượng Joker đặc biệt và các vòng bonus có thể mở khóa phần thưởng tiềm năng lớn nhất." }
+      ]
+    },
+    "super-niubi": {
+      "shortDescription": "Trò chơi kiểu bàn sôi động với các vòng nhanh và nhiều tùy chọn đặt cược cho người chơi có kinh nghiệm.",
+      "overview": "Super Niubi được thiết kế cho những người chơi thích đặt cược nhanh và hành động trên bàn. Quy tắc đơn giản nhưng nhiều tổ hợp cược.",
+      "howToPlay": [
+        { "title": "Tìm hiểu các tùy chọn đặt cược", "description": "Xem bảng thanh toán để hiểu các cược khác nhau và khoản thanh toán tương ứng." },
+        { "title": "Đặt chip của bạn", "description": "Sử dụng điều khiển chip để chọn số tiền cược và đặt cược trước khi vòng bắt đầu." },
+        { "title": "Theo dõi kết quả trò chơi", "description": "Sau khi đóng cược, xem vòng kết thúc và xem cược nào được thanh toán." }
+      ]
+    },
+    "dragon-tiger-deluxe": {
+      "shortDescription": "Trò chơi bàn trực tiếp đơn giản nơi Rồng và Hổ đối đầu trong các vòng nhanh.",
+      "overview": "Dragon Tiger Deluxe giữ quy tắc đơn giản: hai lá bài được chia, một cho Rồng và một cho Hổ. Người chơi đặt cược bên nào sẽ nhận được lá bài cao hơn.",
+      "howToPlay": [
+        { "title": "Tham gia một bàn", "description": "Vào sảnh trực tiếp, chọn Dragon Tiger Deluxe và chờ cửa sổ đặt cược tiếp theo." },
+        { "title": "Đặt cược Rồng hoặc Hổ", "description": "Cược vào Rồng, Hổ hoặc Hòa và xác nhận trước khi đếm ngược kết thúc." },
+        { "title": "Kiểm tra bên thắng", "description": "Người chia bài lật cả hai lá bài. Lá bài cao hơn thắng và khoản thanh toán được trao tự động." }
+      ]
+    },
+    "sugar-rush-1000": {
+      "shortDescription": "Máy đánh bạc kẹo biến động cao với số nhân và chiến thắng cuộn tuyết cho khoản thanh toán tiềm năng khổng lồ.",
+      "overview": "Sugar Rush 1000 là máy đánh bạc video nhịp độ nhanh từ Pragmatic Play với chủ đề kẹo màu sắc, cuộn tuyết và các điểm số nhân có thể tích lũy để thắng lớn.",
+      "howToPlay": [
+        { "title": "Chọn cược của bạn", "description": "Đặt mức cược ưa thích mỗi lần quay bằng cách sử dụng điều khiển cược trước khi bắt đầu chơi." },
+        { "title": "Quay cuộn", "description": "Nhấn nút quay và nhắm đến việc xuất hiện các cụm biểu tượng kẹo phù hợp ở bất kỳ đâu trên lưới." },
+        { "title": "Xây dựng số nhân", "description": "Cụm thắng tăng số nhân tại vị trí của chúng. Kích hoạt vòng quay miễn phí để tận dụng tối đa số nhân xếp chồng." }
+      ]
+    },
+    "lucky-gold-pots": {
+      "shortDescription": "Máy đánh bạc chủ đề Ireland với wild, số nhân và hoạt ảnh đầy màu sắc xung quanh những chậu vàng.",
+      "overview": "Lucky Gold Pots mời người chơi săn đuổi những chậu vàng trên các cuộn. Với wild xếp chồng, thanh toán scatter và vòng vòng quay miễn phí đầy tính năng.",
+      "howToPlay": [
+        { "title": "Đặt kích thước xu", "description": "Điều chỉnh giá trị xu và số dòng để kiểm soát tổng chi phí mỗi lần quay." },
+        { "title": "Quay để thắng dòng", "description": "Nhấn quay và sắp xếp các biểu tượng phù hợp trên các dòng trả thưởng từ trái sang phải." },
+        { "title": "Kích hoạt tính năng bonus", "description": "Xuất hiện biểu tượng scatter hoặc biểu tượng bonus đặc biệt để mở khóa vòng quay miễn phí." }
+      ]
+    },
+    "ocean-treasure-hunt": {
+      "shortDescription": "Trò chơi câu cá chủ đề dưới nước nơi bạn bắn vào các sinh vật biển đầy màu sắc để nhận phần thưởng ngay lập tức.",
+      "overview": "Ocean Treasure Hunt tái tưởng tượng các khoản thanh toán kiểu máy đánh bạc như một trò chơi bắn cá. Người chơi chọn giá trị đạn và bắn vào các mục tiêu trên màn hình.",
+      "howToPlay": [
+        { "title": "Chọn giá trị đạn", "description": "Đặt chi phí mỗi lần bắn theo ngân sách trước khi vào phòng câu cá." },
+        { "title": "Nhắm mục tiêu", "description": "Sử dụng điều khiển để di chuyển pháo và bắn vào cá và các mục tiêu đặc biệt bơi qua màn hình." },
+        { "title": "Thu thập chiến thắng ngay lập tức", "description": "Mỗi mục tiêu bị đánh bại trả theo số nhân của nó. Chú ý đến các sinh vật hiếm có phần thưởng lớn nhất." }
+      ]
+    }
+  },
+  "cards": {
+    "desc": {
+      "gxy888": "Chào mừng đến với sòng bạc! 🎁 Nhận 500 baht miễn phí! 🎁",
+      "luk666": "Chào mừng đến với LUK666! Tiền thưởng nạp đầu khổng lồ!!!",
+      "heng9999": "Nạp lần đầu và nhận tiền thưởng miễn phí 2.490.",
+      "777ww": "Thành viên mới, chúng tôi thách thức bạn thử và nhận tiền thưởng đầy đủ!",
+      "ubet89": "Ubet89, sòng bạc thịnh hành năm 2025.",
+      "88fed": "88FED là trang web sòng bạc trực tiếp cung cấp đầy đủ dịch vụ.",
+      "betluckmak": "Đăng ký ngay hôm nay và nhận tín dụng miễn phí! Không cần nạp tiền. Rút tiền thật.",
+      "550ww": "Thành viên mới của 550WW nhận 100 baht miễn phí.",
+      "borojeet": "Chào mừng đến với BoroJeet BD",
+      "welcome500": "Chào mừng đến với sòng bạc! 🎁 Nhận 500 baht miễn phí! 🎁",
+      "firstDeposit400": "Tiền thưởng 400% cho lần nạp đầu tiên"
+    }
+  },
+  "footer": {
+    "certifiedBy": "trang web được chứng nhận bởi:",
+    "copyright": "Đã đăng ký bản quyền."
+  }
+}

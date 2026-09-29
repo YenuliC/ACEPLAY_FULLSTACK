@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "home": "Tahanan",
+    "casinos": "Mga Casino",
+    "games": "Mga Laro"
+  },
+  "hero": {
+    "title": "Pinakamahusay na Online Casino sa Pilipinas 2026",
+    "subtitle": "Hanapin ang perpektong casino para sa iyo gamit ang mga ekspertong review, tunay na pagsubok, ranggo sa internasyonal, transparent at nave-verify, kasama ang libreng bonus at eksklusibong promosyon —",
+    "subtitle2": "ACEPlay nangunguna sa industriya ng online gaming!",
+    "allCasinos": "Lahat ng Casino"
+  },
+  "sections": {
+    "topCasinos": "Nangungunang Casino sa Pilipinas",
+    "topCasinosBangladesh": "Nangungunang Casino sa Bangladesh",
+    "topCasinosPhilippines": "Nangungunang Casino sa Pilipinas",
+    "topCasinosDesc": "Nire-review namin ang pinakabagong bonus mula sa nangungunang online casino sa Pilipinas. Ikinokonpara ng aming mga eksperto ang mga sikat na alok tulad ng welcome bonus at no-deposit deals.",
+    "popularGames": "Sikat na Laro sa Pilipinas",
+    "popularGamesBangladesh": "Pinakamagandang Laro sa Bangladesh",
+    "popularGamesPhilippines": "Pinakamagandang Laro sa Pilipinas",
+    "popularGamesDesc": "Nire-review namin ang pinakabagong bonus mula sa nangungunang online casino sa Pilipinas.",
+    "promotions": "Eksklusibong Promosyon na may Generous na Bonus",
+    "promotionsDesc": "Nire-review namin ang pinakabagong bonus mula sa nangungunang online casino sa Pilipinas.",
+    "beginnerGuide": "Gabay para sa Baguhan sa Online Betting",
+    "beginnerGuideDesc": "Bago ka sa online casino? Magsimula sa aming mga simpleng gabay para malaman kung paano gumagana ang mga bonus.",
+    "discoverMore": "Tuklasin Pa",
+    "guideLabel": "Gabay"
+  },
+  "guides": {
+    "g1": { "title": "Pumili ng mapagkakatiwalaang casino.", "description": "Pumili ng website na mapagkakatiwalaan, may mataas na rating, patas, at nag-aalok ng ligtas na mga transaksyon." },
+    "g2": { "title": "Alamin ang iyong mga benepisyo.", "description": "Unawain ang mga alok ng bawat platform, tulad ng cashback, VIP rewards, at mga pang-araw-araw na promosyon." },
+    "g3": { "title": "Makatanggap ng welcome bonus.", "description": "Palakasin ang iyong unang deposito gamit ang aming welcome bonus para sa mga bagong miyembro." },
+    "g4": { "title": "Mag-deposito ng ligtas.", "description": "Gumamit ng ligtas at naka-encrypt na paraan ng pagbabayad para mag-deposito ng pondo sa iyong casino account." },
+    "g5": { "title": "I-explore at maglaro ng mga laro.", "description": "I-enjoy ang mga sikat na laro tulad ng mga slot, fish shooting games, live casino, sports betting, at marami pa." },
+    "g6": { "title": "I-withdraw ang iyong mga panalo.", "description": "Ang pag-withdraw ay madali, na may mabilis at ligtas na mga opsyon sa pagbabayad." }
+  },
+  "casino": {
+    "pageTitle": "Makahanap ng mapagkakatiwalaang casino malapit sa iyo.",
+    "pageDesc": "Tuklasin ang aming mga inirerekomendang casino sa iyong bansa! Mag-enjoy ng mga mainit na promosyon, ligtas na sistema, at madali at mabilis na deposito at withdrawal.",
+    "payment": "Paraan ng Pagbabayad",
+    "topCasinos": "Nangungunang Casino",
+    "findLocalCasino": "Hanapin ang lokal na casino",
+    "deposit": "Deposito",
+    "bonus": "Bonus",
+    "receive": "Matanggap",
+    "depositRange": "Hanay ng Deposito",
+    "withdrawalRange": "Hanay ng Withdrawal",
+    "viewMore": "Tingnan Pa",
+    "getPromotion": "Kunin ang promosyon ngayon",
+    "popularCasinosDesc": "Nire-review namin ang pinakabagong bonus mula sa mga nangungunang online casino, ikinokonpara ang mga magagandang alok tulad ng welcome bonus at no-deposit promotions.",
+    "popularCasinosThailand": "Sikat na Casino sa Thailand",
+    "popularCasinosBangladesh": "Sikat na Casino sa Bangladesh",
+    "popularCasinosPhilippines": "Sikat na Casino sa Pilipinas",
+    "alternativeLink": "Alternatibong link",
+    "viewAllPromotions": "Tingnan lahat ng promosyon",
+    "joinPromotion": "Sumali sa Promosyon",
+    "newMembersWith": "Mga bagong miyembro sa",
+    "bahtForFree": "baht nang libre.",
+    "gameCategories": "Mga Kategorya ng Laro",
+    "jackpot": "Jackpot",
+    "vipClub": "VIP Club",
+    "exclusiveRewards": "Mga eksklusibong reward",
+    "celebrateVictory": "Ipagdiwang ang iyong malaking tagumpay sa",
+    "popularGameNationwide": "Isang sikat na laro na minamahal ng mga manlalaro sa buong bansa.",
+    "dontMissPromotion": "Huwag palampasin ang kamangha-manghang espesyal na promosyon na ito!",
+    "notFound": "Hindi nahanap ang casino.",
+    "backToThailand": "Bumalik sa mga casino ng Thailand",
+    "breadcrumbThailand": "Thailand",
+    "catVpn": "VPN",
+    "catHotGames": "Mga sikat na laro",
+    "catLiveCasino": "Live Casino",
+    "catSlots": "Mga Slot",
+    "catSport": "Sports",
+    "catFishGames": "Mga Laro sa Pangingisda",
+    "catLottery": "Loteria"
+  },
+  "country": {
+    "thailand": "Mga Casino sa Thailand",
+    "bangladesh": "Mga Casino sa Bangladesh",
+    "philippines": "Mga Casino sa Pilipinas"
+  },
+  "promo": {
+    "turnover": "Turnover",
+    "totalWins": "Kabuuang Panalo",
+    "maxWithdrawal": "Max na Withdrawal",
+    "gameType": "Uri ng Laro",
+    "joinNow": "Sumali Na",
+    "allPromotions": "Lahat ng Promosyon"
+  },
+  "common": {
+    "more": "Pa"
+  },
+  "games": {
+    "pageTitle": "Hanapin ang pinakamahusay na laro para sa iyo",
+    "pageDesc": "I-explore ang pinakasikat na online na laro kabilang ang mga slot, live casino games, fishing games, table games, sports betting at higit pa.",
+    "searchPlaceholder": "Maghanap ng mga laro o provider",
+    "allProviders": "Lahat ng Provider",
+    "winningRate": "Rate ng Panalo",
+    "highestWinning": "Pinakamataas na Panalo",
+    "bet": "Taya",
+    "win": "Panalo",
+    "playNow": "Maglaro Na",
+    "moreReviews": "Higit pang Review",
+    "gameOverview": "Pangkalahatang-tanaw ng Laro",
+    "howToPlay": "Paano Maglaro",
+    "notFound": "Hindi nahanap ang laro.",
+    "volatility": "Volatility",
+    "released": "Inilabas",
+    "rtp": "RTP",
+    "backToGames": "Bumalik sa Mga Laro",
+    "categories": {
+      "all": "Lahat ng laro",
+      "slots": "Mga Slot",
+      "live": "Live Casino",
+      "table": "Mga Table Game",
+      "fishing": "Pangingisda",
+      "sports": "Sports",
+      "other": "Iba pa"
+    }
+  },
+  "gameDetails": {
+    "super-ace": {
+      "shortDescription": "Ang pinakasikat na slot sa Southeast Asia na may card-based mechanics at napakalaking multiplier.",
+      "overview": "Ang Super ACE ay isang medium volatility slot game na ginawa ng JILI. Sa RTP na 97% at rating ng manlalaro na 4.8/5, ito ay isa sa pinaka-sikat na titulo sa linya ng JILI. Kasama ang Free Spins, Multipliers at Wild Cards.",
+      "howToPlay": [
+        { "title": "Piliin ang iyong taya", "description": "Itakda ang iyong gustong halaga ng taya bago i-spin ang mga reel." },
+        { "title": "I-spin at abangan ang mga panalo", "description": "Pindutin ang spin button at abangan ang mga katugmang card symbol at wild." },
+        { "title": "I-trigger ang free spins", "description": "Ilagay ang mga kinakailangang scatter symbol para ma-unlock ang free spins na may tumataas na multiplier." }
+      ]
+    },
+    "fortune-rabbit": {
+      "shortDescription": "Isang nakaka-engganyo na slot na inspirado ng Taon ng Kuneho, na nag-aalok ng mga espesyal na feature at malaking potensyal na panalo.",
+      "overview": "Ang Fortune Rabbit mula sa PG Soft ay pinagsama ang magandang art style at mga rewarding na mechanics. Ang laro ay nakatuon sa simpleng gameplay na may random na feature na maaaring mapalakas ang iyong mga panalo.",
+      "howToPlay": [
+        { "title": "Itakda ang iyong stake", "description": "I-adjust ang laki ng taya ayon sa iyong bankroll bago magsimulang mag-spin." },
+        { "title": "I-trigger ang bonus features", "description": "Mag-spin para makapag-land ng mga winning combination at abangan ang random bonus features." },
+        { "title": "Pamahalaan ang iyong session", "description": "Gamitin ang mga limitasyon sa panalo at pagkatalo para mapanatiling masaya ang iyong gaming session." }
+      ]
+    },
+    "caishen-wins": {
+      "shortDescription": "Isang paboritong Asian-themed slot na may Diyos ng Kayamanan at nakaka-excite na free spins feature.",
+      "overview": "Pinagsama ng Caishen Wins ang maliwanag na visual at nakaka-engganyong gameplay. Akyatin ang mga hagdan ng templo para ma-unlock ang free spins at multiplier.",
+      "howToPlay": [
+        { "title": "Piliin ang iyong wager", "description": "Gamitin ang mga kontrol sa taya para itakda ang iyong antas ng taya batay sa iyong badyet." },
+        { "title": "Mangolekta ng mga winning symbol", "description": "Mag-spin ng mga reel para mangolekta ng mga winning combination. Ang mga espesyal na symbol ay nakakatulong para ma-unlock ang free spins." },
+        { "title": "Pumasok sa free spins mode", "description": "I-land ang mga kinakailangang scatter symbol para mag-trigger ng free spins kung saan ang mga multiplier ay maaaring mapataas ang iyong kabuuang panalo." }
+      ]
+    },
+    "sexy-baccarat": {
+      "shortDescription": "Isang live-dealer baccarat table na may propesyonal na host, side bets at real-time streaming.",
+      "overview": "Ang Sexy Baccarat Classic ay isang live baccarat experience na ine-stream sa HD na may magagandang dealer at isang makisig na studio setting.",
+      "howToPlay": [
+        { "title": "Sumali sa live table", "description": "Buksan ang laro at hintayin ang susunod na betting round bago maglagay ng chips." },
+        { "title": "Maglagay ng iyong mga taya", "description": "Pumili sa pagitan ng Player, Banker, Tie o available na side bets, pagkatapos kumpirmahin ang iyong wager bago maubos ang timer." },
+        { "title": "Panoorin ang resulta", "description": "Hinuhugot ng dealer ang mga kard at ang panig na pinakamalapit sa siyam ang mananalo." }
+      ]
+    },
+    "jackpot-joker": {
+      "shortDescription": "Isang classic-style slot na may modernong graphics at pagkakataong manalo ng impressive na jackpot.",
+      "overview": "Ang Jackpot Joker ay nag-aalok ng pamilyar na karanasan sa slot na may matapang na simbolo at simpleng mechanics. Ang pokus ay ang pagtugis ng mas malalaking panalo sa pamamagitan ng mga naka-stack na simbolo at bonus feature.",
+      "howToPlay": [
+        { "title": "I-adjust ang halaga ng coin", "description": "Piliin ang halaga ng coin at bilang ng linya para itakda ang iyong kabuuang taya bawat spin." },
+        { "title": "Mag-spin at itugma ang mga simbolo", "description": "Pindutin ang spin at mag-land ng mga katugmang simbolo sa mga aktibong payline mula kaliwa hanggang kanan." },
+        { "title": "Layunin ang mga jackpot-style na panalo", "description": "Abangan ang mga espesyal na Joker symbol at bonus round na maaaring mag-unlock ng pinakamalaking potensyal na reward." }
+      ]
+    },
+    "super-niubi": {
+      "shortDescription": "Isang masayang table-style game na may mabilis na round at maraming opsyon sa pagtaya para sa mga bihasang manlalaro.",
+      "overview": "Ang Super Niubi ay angkop para sa mga manlalaong nagtatamasa ng mabilis na pagtaya at aksyon sa mesa. May simpleng mga patakaran ngunit maraming kumbinasyon ng taya.",
+      "howToPlay": [
+        { "title": "Alamin ang mga opsyon sa pagtaya", "description": "Suriin ang paytable para maunawaan ang iba't ibang taya at kanilang mga kaukulang payout." },
+        { "title": "Maglagay ng chips", "description": "Gamitin ang mga kontrol sa chip para piliin ang iyong halaga ng wager at maglagay ng taya bago magsimula ang round." },
+        { "title": "Sundan ang resulta ng laro", "description": "Kapag nagsara ang mga taya, panoorin ang pag-resolve ng round at tingnan kung aling mga taya ang binayaran." }
+      ]
+    },
+    "dragon-tiger-deluxe": {
+      "shortDescription": "Isang simpleng live table game kung saan ang Dragon at Tiger ay nagtatagisan sa mabilis na round.",
+      "overview": "Ang Dragon Tiger Deluxe ay may simpleng mga patakaran: dalawang kard ang hinuhugot, isa para sa Dragon at isa para sa Tiger. Ang mga manlalaro ay tumataya kung aling panig ang makakatanggap ng mas mataas na kard.",
+      "howToPlay": [
+        { "title": "Sumali sa isang mesa", "description": "Pumasok sa live lobby, piliin ang Dragon Tiger Deluxe at hintayin ang susunod na betting window." },
+        { "title": "Maglagay ng Dragon o Tiger bets", "description": "Tumaya sa Dragon, Tiger o Tie, at kumpirmahin ang iyong wager bago maubos ang countdown." },
+        { "title": "Suriin ang panig na nanalo", "description": "Inihahayag ng dealer ang parehong kard. Ang mas mataas na kard ang mananalo at ang mga payout ay awtomatikong ibinibigay." }
+      ]
+    },
+    "sugar-rush-1000": {
+      "shortDescription": "Isang high-volatility candy slot na puno ng mga multiplier at tumbling wins para sa napakalaking potensyal na payout.",
+      "overview": "Ang Sugar Rush 1000 ay isang mabilis na video slot mula sa Pragmatic Play na may makulay na candy theme, cascading reels at mga multiplier spot na maaaring mag-ipon para sa malaking panalo.",
+      "howToPlay": [
+        { "title": "Piliin ang iyong taya", "description": "Itakda ang iyong gustong stake bawat spin gamit ang mga kontrol sa taya bago magsimulang maglaro." },
+        { "title": "I-spin ang mga reel", "description": "Pindutin ang spin button at layunin na mag-land ng mga cluster ng katugmang candy symbol kahit saan sa grid." },
+        { "title": "Mag-build ng mga multiplier", "description": "Ang mga winning cluster ay nagpapataas ng mga multiplier sa kanilang mga posisyon. I-trigger ang free spins para mapakinabangan ang mga naka-stack na multiplier." }
+      ]
+    },
+    "lucky-gold-pots": {
+      "shortDescription": "Isang Irish-themed slot na puno ng wild, multiplier at makulay na animation sa paligid ng mga palayok ng ginto.",
+      "overview": "Inaanyayahan ng Lucky Gold Pots ang mga manlalaro na humabol ng mga palayok ng ginto sa mga reel. May mga stacked wild, scatter payout at isang feature-packed na free spins round.",
+      "howToPlay": [
+        { "title": "Itakda ang laki ng coin", "description": "I-adjust ang halaga ng coin at bilang ng linya para kontrolin ang kabuuang gastos bawat spin." },
+        { "title": "Mag-spin para sa mga winning line", "description": "Pindutin ang spin at ihanay ang mga katugmang simbolo sa mga aktibong payline mula kaliwa hanggang kanan." },
+        { "title": "I-trigger ang mga bonus feature", "description": "Mag-land ng mga scatter symbol o espesyal na bonus icon para ma-unlock ang free spins at iba pang bonus feature." }
+      ]
+    },
+    "ocean-treasure-hunt": {
+      "shortDescription": "Isang underwater-themed fishing game kung saan nagpapaputok ka sa mga makulay na nilalang sa dagat para sa agarang reward.",
+      "overview": "Ang Ocean Treasure Hunt ay muling binibigyan ng kahulugan ang mga slot-style payout bilang fishing shooter. Pinipili ng mga manlalaro ang kanilang halaga ng bala at nagpapaputok sa mga target sa screen.",
+      "howToPlay": [
+        { "title": "Piliin ang halaga ng bala", "description": "Itakda ang gastos bawat shot ayon sa iyong bankroll bago pumasok sa fishing room." },
+        { "title": "Layunin ang mga target", "description": "Gamitin ang mga kontrol para ilipat ang iyong kanyon at magpaputok sa mga isda at espesyal na target na lumalangoy sa screen." },
+        { "title": "Mangolekta ng agarang panalo", "description": "Bawat target na natalo ay nagbabayad ayon sa kanyang multiplier. Bantayan ang mga bihirang nilalang na may pinakamalaking reward." }
+      ]
+    }
+  },
+  "cards": {
+    "desc": {
+      "gxy888": "Maligayang pagdating sa casino! 🎁 Makakuha ng 500 baht libre! 🎁",
+      "luk666": "Maligayang pagdating sa LUK666! Malaking bonus sa unang deposito!!!",
+      "heng9999": "Mag-deposito ng unang beses at makatanggap ng libreng bonus na 2,490.",
+      "777ww": "Mga bagong miyembro, hinihikayat namin kayong subukan at makatanggap ng buong bonus!",
+      "ubet89": "Ubet89, isang trending na casino noong 2025.",
+      "88fed": "Ang 88FED ay isang direktang website ng casino na nag-aalok ng kumpletong serbisyo.",
+      "betluckmak": "Mag-sign up ngayon at makatanggap ng libreng credit! Walang kailangang deposito. Tunay ang mga withdrawal.",
+      "550ww": "Mga bagong miyembro ng 550WW ay nakatanggap ng 100 baht nang libre.",
+      "borojeet": "Maligayang pagdating sa BoroJeet BD",
+      "welcome500": "Maligayang pagdating sa casino! 🎁 Makakuha ng 500 baht libre! 🎁",
+      "firstDeposit400": "400% Bonus sa Unang Deposito"
+    }
+  },
+  "footer": {
+    "certifiedBy": "Ang website ay sertipikado ng:",
+    "copyright": "Lahat ng karapatan ay nakalaan."
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "casinos": "Kasino",
+    "games": "Permainan"
+  },
+  "hero": {
+    "title": "Kasino Online Terbaik 2026",
+    "subtitle": "Temukan kasino yang sempurna untuk Anda dengan ulasan ahli, pengujian nyata, peringkat internasional, transparan dan dapat diverifikasi, ditambah bonus gratis dan promosi eksklusif —",
+    "subtitle2": "ACEPlay memimpin industri game online!",
+    "allCasinos": "Semua Kasino"
+  },
+  "sections": {
+    "topCasinos": "Kasino Terbaik Thailand",
+    "topCasinosBangladesh": "Kasino Terbaik di Bangladesh",
+    "topCasinosPhilippines": "Kasino Terbaik di Filipina",
+    "topCasinosDesc": "Kami telah meninjau bonus terbaru dari kasino online terbaik. Para ahli kami membandingkan penawaran populer seperti bonus selamat datang dan penawaran tanpa deposit.",
+    "popularGames": "Permainan Populer Thailand",
+    "popularGamesBangladesh": "Game Terbaik di Bangladesh",
+    "popularGamesPhilippines": "Game Terbaik di Filipina",
+    "popularGamesDesc": "Kami telah meninjau bonus terbaru dari kasino online terbaik.",
+    "promotions": "Promosi Eksklusif dengan Bonus Melimpah",
+    "promotionsDesc": "Kami telah meninjau bonus terbaru dari kasino online terbaik.",
+    "beginnerGuide": "Panduan Pemula Taruhan Online",
+    "beginnerGuideDesc": "Baru mengenal kasino online? Mulailah dengan panduan sederhana kami untuk mempelajari cara kerja bonus.",
+    "discoverMore": "Temukan lebih banyak",
+    "guideLabel": "Panduan"
+  },
+  "guides": {
+    "g1": { "title": "Pilih kasino yang terpercaya.", "description": "Pilih situs yang terpercaya, memiliki skor ulasan tinggi, adil, dan menawarkan transaksi yang aman." },
+    "g2": { "title": "Pelajari manfaat Anda.", "description": "Pahami penawaran dari setiap platform, seperti cashback, reward VIP, dan promosi harian." },
+    "g3": { "title": "Dapatkan bonus selamat datang.", "description": "Tingkatkan setoran awal Anda dengan penawaran bonus selamat datang untuk anggota baru." },
+    "g4": { "title": "Setoran uang dengan aman.", "description": "Gunakan metode pembayaran yang aman dan terenkripsi untuk menyetor dana ke akun kasino Anda." },
+    "g5": { "title": "Jelajahi dan mainkan permainan.", "description": "Nikmati permainan populer seperti slot, permainan tembak ikan, kasino langsung, taruhan olahraga, dan masih banyak lagi." },
+    "g6": { "title": "Tarik kemenangan Anda.", "description": "Penarikan mudah, dengan opsi pembayaran yang cepat dan aman." }
+  },
+  "casino": {
+    "pageTitle": "Temukan kasino terpercaya di dekat Anda.",
+    "pageDesc": "Temukan kasino yang kami rekomendasikan di negara Anda! Nikmati promosi menarik, sistem yang aman, dan setoran serta penarikan yang mudah dan cepat.",
+    "payment": "Pembayaran",
+    "topCasinos": "Kasino Terbaik",
+    "findLocalCasino": "Temukan kasino lokal",
+    "deposit": "Setoran",
+    "bonus": "Bonus",
+    "receive": "Terima",
+    "depositRange": "Rentang Setoran",
+    "withdrawalRange": "Rentang Penarikan",
+    "viewMore": "Lihat Lebih",
+    "getPromotion": "Dapatkan promosi sekarang",
+    "popularCasinosDesc": "Kami telah meninjau bonus terbaru dari kasino online terkemuka, membandingkan penawaran bagus seperti bonus selamat datang dan promosi tanpa deposit.",
+    "popularCasinosThailand": "Kasino Populer di Thailand",
+    "popularCasinosBangladesh": "Kasino Populer di Bangladesh",
+    "popularCasinosPhilippines": "Kasino Populer di Filipina",
+    "alternativeLink": "Tautan alternatif",
+    "viewAllPromotions": "Lihat semua promosi",
+    "joinPromotion": "Bergabung dengan Promosi",
+    "newMembersWith": "Anggota baru dengan",
+    "bahtForFree": "baht gratis.",
+    "gameCategories": "Kategori Permainan",
+    "jackpot": "Jackpot",
+    "vipClub": "Klub VIP",
+    "exclusiveRewards": "Hadiah eksklusif",
+    "celebrateVictory": "Rayakan kemenangan besar Anda di",
+    "popularGameNationwide": "Permainan populer yang disukai pemain di seluruh negeri.",
+    "dontMissPromotion": "Jangan lewatkan promosi spesial yang luar biasa ini!",
+    "notFound": "Kasino tidak ditemukan.",
+    "backToThailand": "Kembali ke kasino Thailand",
+    "breadcrumbThailand": "Thailand",
+    "catVpn": "VPN",
+    "catHotGames": "Permainan populer",
+    "catLiveCasino": "Kasino langsung",
+    "catSlots": "Slot",
+    "catSport": "Olahraga",
+    "catFishGames": "Permainan memancing",
+    "catLottery": "Lotere"
+  },
+  "country": {
+    "thailand": "Kasino di Thailand",
+    "bangladesh": "Kasino di Bangladesh",
+    "philippines": "Kasino di Filipina"
+  },
+  "promo": {
+    "turnover": "Perputaran",
+    "totalWins": "Total Kemenangan",
+    "maxWithdrawal": "Penarikan Maks",
+    "gameType": "Jenis Permainan",
+    "joinNow": "Bergabung Sekarang",
+    "allPromotions": "Semua Promosi"
+  },
+  "common": {
+    "more": "Lainnya"
+  },
+  "games": {
+    "pageTitle": "Temukan permainan terbaik untuk Anda",
+    "pageDesc": "Jelajahi permainan online paling populer termasuk slot, permainan kasino langsung, permainan memancing, permainan meja, taruhan olahraga, dan masih banyak lagi.",
+    "searchPlaceholder": "Cari permainan atau penyedia",
+    "allProviders": "Semua Penyedia",
+    "winningRate": "Tingkat Kemenangan",
+    "highestWinning": "Kemenangan Tertinggi",
+    "bet": "Taruhan",
+    "win": "Menang",
+    "playNow": "Main Sekarang",
+    "moreReviews": "Ulasan lainnya",
+    "gameOverview": "Ikhtisar Permainan",
+    "howToPlay": "Cara Bermain",
+    "notFound": "Permainan tidak ditemukan.",
+    "volatility": "Volatilitas",
+    "released": "Dirilis",
+    "rtp": "RTP",
+    "backToGames": "Kembali ke Permainan",
+    "categories": {
+      "all": "Semua permainan",
+      "slots": "Slot",
+      "live": "Kasino Langsung",
+      "table": "Permainan Meja",
+      "fishing": "Memancing",
+      "sports": "Olahraga",
+      "other": "Lainnya"
+    }
+  },
+  "gameDetails": {
+    "super-ace": {
+      "shortDescription": "Slot paling populer di Asia Tenggara dengan mekanik berbasis kartu dan pengganda besar.",
+      "overview": "Super ACE adalah permainan slot volatilitas sedang yang dikembangkan oleh JILI. Dengan RTP 97% dan rating pemain 4.8/5, ini adalah salah satu judul paling populer di jajaran JILI. Fitur utama meliputi Putaran Gratis, Pengganda, dan Wild Card.",
+      "howToPlay": [
+        { "title": "Pilih taruhan Anda", "description": "Tetapkan jumlah taruhan pilihan Anda sebelum memutar gulungan." },
+        { "title": "Putar dan amati kemenangan", "description": "Tekan tombol putar dan amati simbol kartu yang cocok serta wild yang dapat memicu pembayaran besar." },
+        { "title": "Aktifkan putaran gratis", "description": "Daratkan simbol scatter yang diperlukan untuk membuka putaran gratis dengan pengganda yang meningkat." }
+      ]
+    },
+    "fortune-rabbit": {
+      "shortDescription": "Slot menawan yang terinspirasi dari Tahun Kelinci, menawarkan fitur kejutan dan potensi kemenangan besar.",
+      "overview": "Fortune Rabbit dari PG Soft memadukan gaya seni lucu dengan mekanik yang menguntungkan. Permainan ini berfokus pada gameplay yang sederhana dengan fitur acak yang dapat meningkatkan kemenangan Anda.",
+      "howToPlay": [
+        { "title": "Tetapkan taruhan Anda", "description": "Sesuaikan ukuran taruhan dengan bankroll Anda sebelum mulai memutar gulungan." },
+        { "title": "Aktifkan fitur bonus", "description": "Putar untuk mendapatkan kombinasi kemenangan dan amati fitur bonus acak yang dapat meningkatkan total pembayaran." },
+        { "title": "Kelola sesi Anda", "description": "Gunakan batas menang dan kalah untuk menjaga sesi permainan tetap menyenangkan dan terkendali." }
+      ]
+    },
+    "caishen-wins": {
+      "shortDescription": "Slot bertema Asia favorit dengan Dewa Kekayaan dan fitur putaran gratis yang mengasyikkan.",
+      "overview": "Caishen Wins memadukan visual yang hidup dengan gameplay yang menarik. Naiki tangga kuil untuk membuka putaran gratis dan pengganda.",
+      "howToPlay": [
+        { "title": "Pilih taruhan Anda", "description": "Gunakan kontrol taruhan untuk menetapkan tingkat taruhan berdasarkan anggaran Anda." },
+        { "title": "Kumpulkan simbol kemenangan", "description": "Putar gulungan untuk mengumpulkan kombinasi kemenangan. Simbol khusus membantu membuka putaran gratis dan pengganda lebih tinggi." },
+        { "title": "Masuk mode putaran gratis", "description": "Daratkan simbol scatter untuk memicu putaran gratis di mana pengganda dapat meningkatkan total kemenangan secara signifikan." }
+      ]
+    },
+    "sexy-baccarat": {
+      "shortDescription": "Meja baccarat dealer langsung dengan host profesional, taruhan sampingan, dan streaming real-time.",
+      "overview": "Sexy Baccarat Classic adalah pengalaman baccarat langsung yang di-streaming dalam HD dengan dealer yang ramah dan latar studio yang stylish.",
+      "howToPlay": [
+        { "title": "Bergabung ke meja langsung", "description": "Buka permainan dan tunggu ronde taruhan berikutnya dimulai sebelum menempatkan chip." },
+        { "title": "Pasang taruhan Anda", "description": "Pilih antara Pemain, Bankir, Seri, atau taruhan sampingan yang tersedia, lalu konfirmasi sebelum timer habis." },
+        { "title": "Amati hasilnya", "description": "Dealer membagikan kartu dan pihak dengan total paling dekat ke sembilan menang. Pembayaran dilakukan secara otomatis." }
+      ]
+    },
+    "jackpot-joker": {
+      "shortDescription": "Slot bergaya klasik dengan grafik modern dan kesempatan memenangkan kemenangan jackpot yang mengesankan.",
+      "overview": "Jackpot Joker menawarkan pengalaman slot yang familiar dengan simbol berani dan mekanik yang mudah dipahami, berfokus pada mengejar kemenangan lebih besar melalui simbol bertumpuk dan fitur bonus.",
+      "howToPlay": [
+        { "title": "Sesuaikan nilai koin", "description": "Pilih nilai koin dan jumlah garis untuk menetapkan total taruhan per putaran." },
+        { "title": "Putar dan cocokkan simbol", "description": "Tekan putar dan daratkan simbol yang cocok pada garis pembayaran aktif dari kiri ke kanan." },
+        { "title": "Bidik kemenangan jackpot", "description": "Perhatikan simbol Joker khusus dan putaran bonus yang dapat membuka potensi hadiah terbesar." }
+      ]
+    },
+    "super-niubi": {
+      "shortDescription": "Permainan bergaya meja yang energetik dengan ronde cepat dan banyak opsi taruhan untuk pemain berpengalaman.",
+      "overview": "Super Niubi dirancang untuk pemain yang menikmati taruhan cepat dan aksi meja. Dengan aturan sederhana tetapi banyak kombinasi taruhan.",
+      "howToPlay": [
+        { "title": "Pelajari opsi taruhan", "description": "Tinjau tabel pembayaran untuk memahami berbagai taruhan dan pembayaran masing-masing." },
+        { "title": "Pasang chip Anda", "description": "Gunakan kontrol chip untuk memilih jumlah taruhan dan menempatkan taruhan sebelum ronde dimulai." },
+        { "title": "Ikuti hasil permainan", "description": "Setelah taruhan ditutup, amati ronde diselesaikan dan lihat taruhan mana yang dibayar." }
+      ]
+    },
+    "dragon-tiger-deluxe": {
+      "shortDescription": "Permainan meja langsung yang efisien di mana Naga dan Harimau berhadapan dalam ronde cepat.",
+      "overview": "Dragon Tiger Deluxe menjaga aturan tetap sederhana: dua kartu dibagikan, satu untuk Naga dan satu untuk Harimau. Pemain bertaruh sisi mana yang akan menerima kartu lebih tinggi.",
+      "howToPlay": [
+        { "title": "Bergabung ke meja", "description": "Masuki lobi langsung, pilih Dragon Tiger Deluxe, dan tunggu jendela taruhan berikutnya." },
+        { "title": "Pasang taruhan Naga atau Harimau", "description": "Bertaruh pada Naga, Harimau, atau Seri, dan konfirmasi taruhan sebelum hitungan mundur berakhir." },
+        { "title": "Periksa sisi yang menang", "description": "Dealer mengungkapkan kedua kartu. Kartu lebih tinggi menang dan pembayaran diberikan secara otomatis." }
+      ]
+    },
+    "sugar-rush-1000": {
+      "shortDescription": "Slot permen volatilitas tinggi yang penuh dengan pengganda dan kemenangan bergulir untuk pembayaran potensial besar.",
+      "overview": "Sugar Rush 1000 adalah video slot bertempo cepat dari Pragmatic Play dengan tema permen berwarna-warni, gulungan bertumpuk, dan titik pengganda yang dapat terakumulasi untuk kemenangan besar.",
+      "howToPlay": [
+        { "title": "Pilih taruhan Anda", "description": "Tetapkan taruhan pilihan per putaran menggunakan kontrol taruhan sebelum mulai bermain." },
+        { "title": "Putar gulungan", "description": "Tekan tombol putar dan usahakan untuk mendapatkan kluster simbol permen yang cocok di mana saja pada kisi." },
+        { "title": "Bangun pengganda", "description": "Kluster kemenangan meningkatkan pengganda di posisinya. Aktifkan putaran gratis untuk memanfaatkan pengganda bertumpuk." }
+      ]
+    },
+    "lucky-gold-pots": {
+      "shortDescription": "Slot bertema Irlandia dengan wild, pengganda, dan animasi berwarna-warni di sekitar periuk emas.",
+      "overview": "Lucky Gold Pots mengundang pemain untuk mengejar periuk emas di gulungan. Dengan wild bertumpuk, pembayaran scatter, dan putaran gratis yang kaya fitur.",
+      "howToPlay": [
+        { "title": "Tetapkan ukuran koin", "description": "Sesuaikan nilai koin dan jumlah garis untuk mengontrol total biaya per putaran." },
+        { "title": "Putar untuk garis kemenangan", "description": "Tekan putar dan sejajarkan simbol yang cocok pada garis pembayaran aktif dari kiri ke kanan." },
+        { "title": "Aktifkan fitur bonus", "description": "Daratkan simbol scatter atau ikon bonus khusus untuk membuka putaran gratis dan fitur bonus lainnya." }
+      ]
+    },
+    "ocean-treasure-hunt": {
+      "shortDescription": "Permainan memancing bertema bawah air di mana Anda menembak makhluk laut berwarna-warni untuk hadiah instan.",
+      "overview": "Ocean Treasure Hunt membayangkan kembali pembayaran gaya slot sebagai penembak memancing. Pemain memilih nilai peluru dan menembak target di layar.",
+      "howToPlay": [
+        { "title": "Pilih nilai peluru", "description": "Tetapkan biaya per tembakan sesuai bankroll Anda sebelum memasuki ruang memancing." },
+        { "title": "Bidik target", "description": "Gunakan kontrol untuk menggerakkan meriam dan menembak ikan serta target khusus yang berenang melintasi layar." },
+        { "title": "Kumpulkan kemenangan instan", "description": "Setiap target yang dikalahkan membayar sesuai penggandanya. Perhatikan makhluk langka dengan hadiah terbesar." }
+      ]
+    }
+  },
+  "cards": {
+    "desc": {
+      "gxy888": "Selamat datang di kasino! 🎁 Dapatkan 500 baht gratis! 🎁",
+      "luk666": "Selamat datang di LUK666! Bonus deposit pertama yang besar!!!",
+      "heng9999": "Lakukan deposit pertama Anda dan terima bonus gratis senilai 2.490.",
+      "777ww": "Anggota baru, kami menantang Anda untuk mencoba dan mendapatkan bonus penuh!",
+      "ubet89": "Ubet89, kasino tren di tahun 2025.",
+      "88fed": "88FED adalah situs kasino langsung yang menawarkan layanan lengkap.",
+      "betluckmak": "Daftar sekarang dan dapatkan kredit gratis! Tidak perlu deposit. Penarikan nyata.",
+      "550ww": "Anggota baru 550WW mendapatkan 100 baht gratis.",
+      "borojeet": "Selamat datang di BoroJeet BD",
+      "welcome500": "Selamat datang di kasino! 🎁 Dapatkan 500 baht gratis! 🎁",
+      "firstDeposit400": "Bonus 400% untuk Deposit Pertama"
+    }
+  },
+  "footer": {
+    "certifiedBy": "website disertifikasi oleh:",
+    "copyright": "Semua hak dilindungi."
+  }
+}

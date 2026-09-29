@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "home": "ទំព័រដើម",
+    "casinos": "កាស៊ីណូ",
+    "games": "ហ្គេម"
+  },
+  "hero": {
+    "title": "កាស៊ីណូអនឡាញល្អបំផុតឆ្នាំ២០២៦",
+    "subtitle": "រកឃើញកាស៊ីណូដ៏ល្អបំផុតសម្រាប់អ្នក ជាមួយការពិនិត្យដោយអ្នកជំនាញ ការសាកល្បងពិតប្រាកដ ចំណាត់ថ្នាក់អន្តរជាតិ ភាពថ្លាដោះ ព្រមទាំងប្រាក់រង្វាន់ឥតគិតថ្លៃ និងការផ្សព្វផ្សាយពិសេស —",
+    "subtitle2": "ACEPlay នាំមុខក្នុងឧស្សាហ៍កម្មហ្គេមអនឡាញ!",
+    "allCasinos": "កាស៊ីណូទាំងអស់"
+  },
+  "sections": {
+    "topCasinos": "កាស៊ីណូកំពូលក្នុងប្រទេសថៃ",
+    "topCasinosBangladesh": "កាស៊ីណូកំពូលក្នុងបង់ក្លាដែស",
+    "topCasinosPhilippines": "កាស៊ីណូកំពូលក្នុងហ្វីលីពីន",
+    "topCasinosDesc": "យើងបានពិនិត្យប្រាក់រង្វាន់ចុងក្រោយពីកាស៊ីណូអនឡាញកំពូលៗ អ្នកជំនាញរបស់យើងប្រៀបធៀបការផ្តល់ជូនដ៏ពេញនិយម។",
+    "popularGames": "ហ្គេមពេញនិយមក្នុងប្រទេសថៃ",
+    "popularGamesBangladesh": "ហ្គេមល្អបំផុតក្នុងបង់ក្លាដែស",
+    "popularGamesPhilippines": "ហ្គេមល្អបំផុតក្នុងហ្វីលីពីន",
+    "popularGamesDesc": "យើងបានពិនិត្យប្រាក់រង្វាន់ចុងក្រោយពីកាស៊ីណូអនឡាញកំពូលៗ។",
+    "promotions": "ការផ្សព្វផ្សាយពិសេស ជាមួយប្រាក់រង្វាន់សន្ធឹកសន្ធាប់",
+    "promotionsDesc": "យើងបានពិនិត្យប្រាក់រង្វាន់ចុងក្រោយពីកាស៊ីណូអនឡាញកំពូលៗ។",
+    "beginnerGuide": "មគ្គុទ្ទេសក៍អ្នកចាប់ផ្តើមដើម",
+    "beginnerGuideDesc": "ថ្មីជាមួយកាស៊ីណូអនឡាញ? ចាប់ផ្តើមជាមួយមគ្គុទ្ទេសក៍សាមញ្ញរបស់យើង។",
+    "discoverMore": "ស្វែងយល់បន្ថែម",
+    "guideLabel": "មគ្គុទ្ទេសក៍"
+  },
+  "guides": {
+    "g1": { "title": "ជ្រើសរើសកាស៊ីណូដែលអាចទុកចិត្តបាន។", "description": "ជ្រើសរើសគេហទំព័រដែលអាចទុកចិត្តបាន មានពិន្ទុខ្ពស់ យុត្តិធម៌ និងផ្តល់ប្រតិបត្តិការដែលមានសុវត្ថិភាព។" },
+    "g2": { "title": "ស្វែងយល់ពីអត្ថប្រយោជន៍របស់អ្នក។", "description": "ស្វែងយល់ពីការផ្តល់ជូនរបស់គ្រប់ Platform ដូចជា cashback, VIP rewards ហើយ promotions ប្រចាំថ្ងៃ។" },
+    "g3": { "title": "ទទួលប្រាក់រង្វាន់ស្វាគមន៍។", "description": "ពង្រឹងការដាក់ប្រាក់ដំបូងរបស់អ្នកជាមួយការផ្តល់ជូនប្រាក់រង្វាន់ស្វាគមន៍សម្រាប់សមាជិកថ្មី។" },
+    "g4": { "title": "ដាក់ប្រាក់ប្រកបដោយសុវត្ថិភាព។", "description": "ប្រើវិធីទូទាត់ប្រាក់ដែលមានសុវត្ថិភាព ហើយ EncryptedTP ដើម្បីដាក់ funds ចូល casino account ។" },
+    "g5": { "title": "ស្វែងរកហើយលេងហ្គេម។", "description": "រីករាយជាមួយហ្គេមល្បីៗ ដូចជា slots, fish shooting games, live casino, sports betting ហើយច្រើនទៀត។" },
+    "g6": { "title": "ដករូបិយប័ណ្ណឈ្នះរបស់អ្នក។", "description": "ការដកប្រាក់ងាយស្រួល ជាមួយជម្រើសការទូទាត់ប្រាក់ដ៏លឿន ហើយ មានសុវត្ថិភាព។" }
+  },
+  "casino": {
+    "pageTitle": "រកឃើញកាស៊ីណូដែលអាចទុកចិត្តបាននៅជិតអ្នក។",
+    "pageDesc": "ស្វែងយល់ពីកាស៊ីណូដែលយើងណែនាំនៅក្នុងប្រទេសរបស់អ្នក! រីករាយជាមួយការផ្សព្វផ្សាយក្តៅ ប្រព័ន្ធមានសុវត្ថិភាព និងការដាក់ - ដកប្រាក់ដែលងាយស្រួល និងរហ័ស។",
+    "payment": "ការទូទាត់",
+    "topCasinos": "កាស៊ីណូកំពូល",
+    "findLocalCasino": "រកឃើញកាស៊ីណូក្នុងស្រុក",
+    "deposit": "ដាក់ប្រាក់",
+    "bonus": "ប្រាក់រង្វាន់",
+    "receive": "ទទួល",
+    "depositRange": "ចំនួនដាក់ប្រាក់",
+    "withdrawalRange": "ចំនួនដកប្រាក់",
+    "viewMore": "មើលបន្ថែម",
+    "getPromotion": "ទទួលការផ្សព្វផ្សាយភ្លាមៗ",
+    "popularCasinosDesc": "យើងបានពិនិត្យប្រាក់រង្វាន់ចុងក្រោយ ប្រៀបធៀបការផ្តល់ជូនដ៏ល្អដូចជាប្រាក់រង្វាន់ស្វាគមន៍ និងការផ្សព្វផ្សាយដោយមិនដាក់ប្រាក់។",
+    "popularCasinosThailand": "កាស៊ីណូពេញនិយមនៅប្រទេសថៃ",
+    "popularCasinosBangladesh": "កាស៊ីណូពេញនិយមនៅបង់ក្លាដែស",
+    "popularCasinosPhilippines": "កាស៊ីណូពេញនិយមនៅហ្វីលីពីន",
+    "alternativeLink": "លីងក៍ជំនួស",
+    "viewAllPromotions": "មើលការផ្សព្វផ្សាយទាំងអស់",
+    "joinPromotion": "ចូលរួមការផ្សព្វផ្សាយ",
+    "newMembersWith": "សមាជិកថ្មីជាមួយ",
+    "bahtForFree": "បាតដោយឥតគិតថ្លៃ",
+    "gameCategories": "ប្រភេទហ្គេម",
+    "jackpot": "រង្វាន់ធំ",
+    "vipClub": "VIP Club",
+    "exclusiveRewards": "រង្វាន់ពិសេស",
+    "celebrateVictory": "ប្រារព្ធជ័យជំនះធំរបស់អ្នកនៅ",
+    "popularGameNationwide": "ហ្គេមដ៏ពេញនិយមដែលត្រូវបានចូលចិត្តដោយអ្នកលេងទូទាំងប្រទេស",
+    "dontMissPromotion": "កុំខកខានការផ្សព្វផ្សាយពិសេសសន្ធឹកសន្ធាប់នេះ!",
+    "notFound": "រកមិនឃើញកាស៊ីណូ",
+    "backToThailand": "ត្រឡប់ទៅកាស៊ីណូថៃ",
+    "breadcrumbThailand": "ប្រទេសថៃ",
+    "catVpn": "VPN",
+    "catHotGames": "ហ្គេមក្តៅ",
+    "catLiveCasino": "កាស៊ីណូផ្ទាល់",
+    "catSlots": "ស្លុត",
+    "catSport": "កីឡា",
+    "catFishGames": "ហ្គេមនេសាទ",
+    "catLottery": "ឆ្នោត"
+  },
+  "country": {
+    "thailand": "កាស៊ីណូក្នុងប្រទេសថៃ",
+    "bangladesh": "កាស៊ីណូក្នុងបង់ក្លាដែស",
+    "philippines": "កាស៊ីណូក្នុងហ្វីលីពីន"
+  },
+  "promo": {
+    "turnover": "ចំនួនប្រើប្រាស់",
+    "totalWins": "ប្រាក់ឈ្នះសរុប",
+    "maxWithdrawal": "ដកប្រាក់អតិបរមា",
+    "gameType": "ប្រភេទហ្គេម",
+    "joinNow": "ចូលរួមឥឡូវ",
+    "allPromotions": "ការផ្សព្វផ្សាយទាំងអស់"
+  },
+  "common": {
+    "more": "បន្ថែម"
+  },
+  "games": {
+    "pageTitle": "រកឃើញហ្គេមដ៏ល្អបំផុតសម្រាប់អ្នក",
+    "pageDesc": "ស្វែងយល់ពីហ្គេមអនឡាញដ៏ពេញនិយមបំផុត រួមមានស្លុត កាស៊ីណូផ្ទាល់ ហ្គេមនេសាទ ហ្គេមតុ ការភ្នាល់កីឡា និងច្រើនទៀត។",
+    "searchPlaceholder": "ស្វែងរកហ្គេម ឬអ្នកផ្តល់សេវា",
+    "allProviders": "អ្នកផ្តល់សេវាទាំងអស់",
+    "winningRate": "អត្រាឈ្នះ",
+    "highestWinning": "ឈ្នះខ្ពស់បំផុត",
+    "bet": "ភ្នាល់",
+    "win": "ឈ្នះ",
+    "playNow": "លេងឥឡូវ",
+    "moreReviews": "ការពិនិត្យបន្ថែម",
+    "gameOverview": "ទិដ្ឋភាពទូទៅហ្គេម",
+    "howToPlay": "របៀបលេង",
+    "notFound": "រកមិនឃើញហ្គេម។",
+    "volatility": "ភាពប្រែប្រួល",
+    "released": "ថ្ងៃចេញផ្សាយ",
+    "rtp": "អត្រាបង្វិល",
+    "backToGames": "ត្រឡប់ទៅហ្គេម",
+    "categories": {
+      "all": "ហ្គេមទាំងអស់",
+      "slots": "ស្លុត",
+      "live": "កាស៊ីណូផ្ទាល់",
+      "table": "ហ្គេមតុ",
+      "fishing": "នេសាទ",
+      "sports": "កីឡា",
+      "other": "ផ្សេងទៀត"
+    }
+  },
+  "gameDetails": {
+    "super-ace": {
+      "shortDescription": "ស្លុតដ៏ពេញនិយមបំផុតនៅអាស៊ីអាគ្នេយ៍ ដែលមានយន្តការផ្អែកលើបៀ និងការគុណដ៏ធំ។",
+      "overview": "Super ACE គឺជាហ្គេមស្លុតភាពប្រែប្រួលមធ្យម ដែលបង្កើតដោយ JILI។ ដោយមាន RTP 97% និងការវាយតម្លៃ 4.8/5 វាគឺជាមួយក្នុងចំណោមមុខងារដ៏ពេញនិយមបំផុតរបស់ JILI។",
+      "howToPlay": [
+        { "title": "ជ្រើសរើសការភ្នាល់របស់អ្នក", "description": "កំណត់ចំនួនភ្នាល់ដែលអ្នកចូលចិត្តមុននឹងបង្វិលរ៉ូឡែត។" },
+        { "title": "បង្វិល ហើយរង់ចាំការឈ្នះ", "description": "ចុចប៊ូតុងបង្វិល ហើយមើលសញ្ញាបៀដែលដូចគ្នា និង Wild។" },
+        { "title": "ជំរុញ Free Spins", "description": "បោះ Scatter ដែលត្រូវការដើម្បីដោះសោ Free Spins ជាមួយការគុណកើនឡើង។" }
+      ]
+    },
+    "fortune-rabbit": {
+      "shortDescription": "ស្លុតគួរឱ្យចង់ ដែលបំផុស្ggpiration ពីឆ្នាំទន្សាយ ផ្តល់នូវលក្ខណៈពិសេសសម្ថភាពឈ្នះធំ។",
+      "overview": "Fortune Rabbit ពី PG Soft ផ្សំបញ្ចូលរចនាប័ទ្មសិល្បៈ귀여운 ជាមួយយន្តការទទួលរង្វាន់។ ហ្គេមមានការលេងងាយ ជាមួយលក្ខណៈចៃដន្យ។",
+      "howToPlay": [
+        { "title": "កំណត់ stake របស់អ្នក", "description": "កំណត់ទំហំការភ្នាល់ ត្រូវនឹងទុនបំរុងរបស់អ្នកមុនចាប់ផ្តើម។" },
+        { "title": "ជំរុញ Bonus Features", "description": "បង្វិលដើម្បីបោះបន្សំឈ្នះ ហើយមើលលក្ខណៈ Bonus ចៃដន្យ។" },
+        { "title": "គ្រប់គ្រង Session របស់អ្នក", "description": "ប្រើដែនចំណេញ ហើយខាត ដើម្បីរក្សា Session ក្តី និងត្រួតត្រា។" }
+      ]
+    },
+    "caishen-wins": {
+      "shortDescription": "ស្លុតធីមអាស៊ីដ៏ចូលចិត្ត ដែលមានព្រះអ្នកមានធន ហើយ Free Spins ដ៏រំភើប។",
+      "overview": "Caishen Wins ផ្សំបញ្ចូលរូបភាពច្បាស់ ជាមួយការលេងលើកទឹកចិត្ត។ ឡើងជណ្តើរវត្ត ដើម្បីដោះសោ Free Spins និងការគុណ។",
+      "howToPlay": [
+        { "title": "ជ្រើសរើស wager របស់អ្នក", "description": "ប្រើការត្រួតត្រាការភ្នាល់ ដើម្បីកំណត់កម្រិតការភ្នាល់ ផ្អែកលើថវិការបស់អ្នក។" },
+        { "title": "ប្រមូល Winning Symbols", "description": "បង្វិលរ៉ូឡែត ដើម្បីប្រមូលបន្សំឈ្នះ។ Symbols ពិសេស ជួយដោះសោ Free Spins។" },
+        { "title": "ចូល Free Spins Mode", "description": "បោះ Scatter ដែលត្រូវការ ដើម្បីជំរុញ Free Spins ដែលការគុណអាចបង្កើនការឈ្នះ។" }
+      ]
+    },
+    "sexy-baccarat": {
+      "shortDescription": "តុ Baccarat ផ្ទាល់ ដែលមានម្ចាស់ផ្ទះជំនាញ ការភ្នាល់ Side ហើយ Streaming ពេលវេលាពិត។",
+      "overview": "Sexy Baccarat Classic គឺជាបទពិសោធន៍ Baccarat ផ្ទាល់ ដែល Stream ក្នុង HD ជាមួយ Dealers រួសរាយ ហើយ Studio Setting ស្អាត។",
+      "howToPlay": [
+        { "title": "ចូលរួម Live Table", "description": "បើកហ្គេម ហើយរង់ចាំវ ature Betting Round បន្ទាប់ ចាប់ផ្តើមមុន Chips ដាក់។" },
+        { "title": "ដាក់ការភ្នាល់", "description": "ជ្រើសរើសរវាង Player, Banker, Tie ឬ Side Bets ដែលអាចរកបាន ហើយបញ្ជាក់ការភ្នាល់។" },
+        { "title": "មើលលទ្ធផល", "description": "Dealer ចែកបៀ ហើយ side ដែលនៅជិত 9 ជាងគេ ឈ្នះ។ Payouts ស្វ័យប្រវត្តិ។" }
+      ]
+    },
+    "jackpot-joker": {
+      "shortDescription": "ស្លុតរចនាប័ទ្មបុរាណ ជាមួយ Graphics ទំនើប ហើយឱកាស Jackpot ដ៏ធំ។",
+      "overview": "Jackpot Joker ផ្តល់ការ experience ស្លុតស្គាល់ ជាមួយ Symbols ដ៏大胆 ហើយ Mechanics ត្រង់ ។ ផ្តោតលើ Jackpot wins។",
+      "howToPlay": [
+        { "title": "Adjust Coin Value", "description": "ជ្រើស coin value ហើយ lines ចំនួន ដើម្បីកំណត់ total bet ក្នុងមួយ spin។" },
+        { "title": "Spin ហើយ Match Symbols", "description": "ចុច spin ហើយ land matching symbols លើ active paylines ពីឆ្វេងទៅស្តាំ។" },
+        { "title": "ព្យាយាម Jackpot Wins", "description": "មើល Joker Symbols ពិសេស ហើយ Bonus Rounds ដែលអាច unlock rewards ធំបំផុត។" }
+      ]
+    },
+    "super-niubi": {
+      "shortDescription": "ហ្គេម Table-style ដ៏មានថាមពល ជាមួយ Rounds យ៉ាងលឿន ហើយ Betting Options ជាច្រើន。",
+      "overview": "Super Niubi ស្របសម្រាប់ Players ដែលចូលចិត្ត Betting លឿន ហើយ Table Action ។ Rules ងាយ ប៉ុន្ដែ Bet Combinations ជាច្រើន។",
+      "howToPlay": [
+        { "title": "ស្វែងយល់ Betting Options", "description": "ពិនិត្យ Paytable ដើម្បីយល់ Bets ផ្សេងៗ ហើយ Payouts ។" },
+        { "title": "ដាក់ Chips", "description": "ប្រើ Chip Controls ដើម្បីជ្រើស wager amount ហើយ place bets ។" },
+        { "title": "តាមដាន Game Result", "description": "បន្ទាប់ Bets ស្ងួត មើល Round Resolve ហើយ Bets ណាបានឈ្នះ។" }
+      ]
+    },
+    "dragon-tiger-deluxe": {
+      "shortDescription": "ហ្គេម Live Table ដ៏សាមញ្ញ ដែល Dragon ហើយ Tiger ប្រយុទ្ធគ្នាក្នុង Rounds លឿន។",
+      "overview": "Dragon Tiger Deluxe ​​រក្សា Rules សាមញ្ញ: Cards ពីរ deal ហើយ Players ភ្នាល់ Side ណាដែល Card ខ្ពស់ជាង។",
+      "howToPlay": [
+        { "title": "Join Table", "description": "ចូល Live Lobby ជ្រើស Dragon Tiger Deluxe ហើយ រង់ចាំ Betting Window បន្ទាប់។" },
+        { "title": "Place Dragon ឬ Tiger Bets", "description": "ភ្នាល់ Dragon, Tiger ឬ Tie ហើយ confirm wager មុន countdown ចប់។" },
+        { "title": "ពិនិត្យ Winning Side", "description": "Dealer បង្ហើប Cards ទាំងពីរ។ Card ខ្ពស់ជាង ឈ្នះ ហើយ Payouts ស្វ័យប្រវត្តិ。" }
+      ]
+    },
+    "sugar-rush-1000": {
+      "shortDescription": "ស្លុត Candy High-Volatility ។ ការគុណ ហើយ Tumbling Wins សម្រាប់ Payouts ដ៏ធំ。",
+      "overview": "Sugar Rush 1000 គឺ Video Slot លឿន ពី Pragmatic Play ។ Candy Theme ច្រើនពណ៌ Cascading Reels ហើយ Multiplier Spots ដែលអាចប្រមូលបានច្រើន។",
+      "howToPlay": [
+        { "title": "ជ្រើស Bet", "description": "កំណត់ stake ដែលចូលចិត្ត ក្នុងមួយ spin ដោយប្រើ controls ។" },
+        { "title": "Spin Reels", "description": "ចុច spin ហើយ aim to land clusters of matching candy symbols ។" },
+        { "title": "Build Multipliers", "description": "Winning clusters increase multipliers ។ Trigger Free Spins ដើម្បីប្រើ Stacked Multipliers ។" }
+      ]
+    },
+    "lucky-gold-pots": {
+      "shortDescription": "ស្លុតធីម Irish ។ Wilds, Multipliers ហើយ Animations ពណ៌ ។",
+      "overview": "Lucky Gold Pots អញ្ជើញ Players ដើម្បី chase pots of gold ។ Stacked Wilds, Scatter Payouts ហើយ Free Spins Round ។",
+      "howToPlay": [
+        { "title": "កំណត់ Coin Size", "description": "Adjust coin value ហើយ lines ចំនួន ដើម្បីគ្រប់គ្រង cost ក្នុងមួយ spin ។" },
+        { "title": "Spin for Winning Lines", "description": "ចុច spin ហើយ line up matching symbols ។" },
+        { "title": "Trigger Bonus Features", "description": "Land scatter symbols ដើម្បី unlock free spins ។" }
+      ]
+    },
+    "ocean-treasure-hunt": {
+      "shortDescription": "ហ្គេម Fishing ធីម Underwater ។ Shoot colored sea creatures for instant rewards ។",
+      "overview": "Ocean Treasure Hunt reimagines slot-style payouts as a fishing shooter ។ Players select bullet value ហើយ fire at targets ។",
+      "howToPlay": [
+        { "title": "ជ្រើស Bullet Value", "description": "Set cost per shot ត្រូវ bankroll មុន enter fishing room ។" },
+        { "title": "Aim at Targets", "description": "Use controls move cannon ហើយ fire at fish ។" },
+        { "title": "Collect Instant Wins", "description": "Each target pays according to multiplier ។ Watch for rare creatures ។" }
+      ]
+    }
+  },
+  "cards": {
+    "desc": {
+      "gxy888": "សូមស្វាគមន៍មកកាន់កាស៊ីណូ! 🎁 ទទួលបាន 500 បាត់ ដោយឥតគិតថ្លៃ! 🎁",
+      "luk666": "សូមស្វាគមន៍មកកាន់ LUK666! ប្រាក់រង្វាន់ដ៏ធំសម្រាប់ការដាក់ប្រាក់លើកដំបូង!!!",
+      "heng9999": "ដាក់ប្រាក់លើកដំបូងហើយទទួលបានប្រាក់រង្វាន់ឥតគិតថ្លៃ 2,490។",
+      "777ww": "សមាជិកថ្មី យើងប្រឈមមុខអ្នកឱ្យសាកល្បង ហើយទទួលបានប្រាក់រង្វាន់ពេញ!",
+      "ubet89": "Ubet89 ជាកាស៊ីណូដ៏ពេញនិយម ក្នុងឆ្នាំ 2025។",
+      "88fed": "88FED គឺជាគេហទំព័រកាស៊ីណូផ្ទាល់ ដែលផ្តល់សេវាកម្មពេញលេញ។",
+      "betluckmak": "ចុះឈ្មោះថ្ងៃនេះ ហើយទទួលបានឥណទានឥតគិតថ្លៃ! មិនចាំបាច់ដាក់ប្រាក់ ការដកប្រាក់មានអ្នកពិតប្រាកដ។",
+      "550ww": "សមាជិកថ្មី 550WW ទទួលបាន 100 បាត់ ដោយឥតគិតថ្លៃ។",
+      "borojeet": "សូមស្វាគមន៍មកកាន់ BoroJeet BD",
+      "welcome500": "សូមស្វាគមន៍មកកាន់កាស៊ីណូ! 🎁 ទទួលបាន 500 បាត់ ដោយឥតគិតថ្លៃ! 🎁",
+      "firstDeposit400": "ប្រាក់រង្វាន់ 400% សម្រាប់ការដាក់ប្រាក់លើកដំបូង"
+    }
+  },
+  "footer": {
+    "certifiedBy": "គេហទំព័រត្រូវបានបញ្ជាក់ដោយ:",
+    "copyright": "រក្សាសិទ្ធគ្រប់យ៉ាង។"
+  }
+}

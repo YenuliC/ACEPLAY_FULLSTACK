@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "home": "Home",
+    "casinos": "Casinos",
+    "games": "Games"
+  },
+  "hero": {
+    "title": "Best Online Casinos Thailand 2026",
+    "subtitle": "Find the perfect casino for you with expert reviews, real-world testing, internationally ranked, transparent and verifiable, plus free bonuses and exclusive promotions —",
+    "subtitle2": "ACEPlay leads the online gaming industry!",
+    "allCasinos": "All Casinos"
+  },
+  "sections": {
+    "topCasinos": "Top Casinos in Thailand",
+    "topCasinosBangladesh": "Top Casino in Bangladesh",
+    "topCasinosPhilippines": "Top Casinos in Philippines",
+    "topCasinosDesc": "We've reviewed the latest bonuses from the top online casinos in Thailand. Our experts compare popular offers like welcome bonuses and no-deposit deals — showing you how to get the most value when playing real-money games.",
+    "popularGames": "Popular games in Thailand",
+    "popularGamesBangladesh": "Best Games in Bangladesh",
+    "popularGamesPhilippines": "Best Games in Philippines",
+    "popularGamesDesc": "We've reviewed the latest bonuses from the top online casinos in Thailand. Our experts compare popular offers like welcome bonuses and no-deposit deals — showing you how to get the most value when playing real-money games.",
+    "promotions": "Exclusive promotions with generous bonuses",
+    "promotionsDesc": "We've reviewed the latest bonuses from the top online casinos in Thailand. Our experts compare popular offers like welcome bonuses and no-deposit deals — showing you how to get the most value when playing real-money games.",
+    "beginnerGuide": "Online Betting Beginner's Guide",
+    "beginnerGuideDesc": "New to online casinos? Start with our simple guides to learn how bonuses work, how to deposit safely and choose the right games for your style.",
+    "discoverMore": "Discover more",
+    "guideLabel": "Guide"
+  },
+  "guides": {
+    "g1": { "title": "Choose a trustworthy casino.", "description": "Choose a website that is trustworthy, has high review scores, is fair, and offers secure transactions." },
+    "g2": { "title": "Learn about your benefits.", "description": "Understand the offers offered by each platform, such as cashback, VIP rewards, and daily promotions." },
+    "g3": { "title": "Receive a welcome bonus.", "description": "Boost your initial deposit with our welcome bonus offer for new members." },
+    "g4": { "title": "Deposit money securely.", "description": "Use secure and encrypted payment methods to deposit funds into your casino account." },
+    "g5": { "title": "Explore and play games.", "description": "Enjoy popular games such as slots, fish shooting games, live casino, sports betting, and much more." },
+    "g6": { "title": "Withdraw your winnings.", "description": "Withdrawals are easy, with fast and secure payment options." }
+  },
+  "casino": {
+    "pageTitle": "Find a reliable casino near you.",
+    "pageDesc": "Discover our recommended casinos in your country! Enjoy hot promotions, secure systems, and easy, fast deposits and withdrawals. We've selected only trustworthy online casinos for your peace of mind.",
+    "payment": "Payment",
+    "topCasinos": "Top Casinos",
+    "findLocalCasino": "Find a local casino",
+    "deposit": "Deposit",
+    "bonus": "Bonus",
+    "receive": "Receive",
+    "depositRange": "Deposit Range",
+    "withdrawalRange": "Withdrawal Range",
+    "viewMore": "View More",
+    "getPromotion": "Get the promotion instantly",
+    "popularCasinosDesc": "We've reviewed the latest bonuses from leading online casinos, comparing great offers like welcome bonuses and no-deposit promotions — to help you get the most out of your real money gaming experience.",
+    "popularCasinosThailand": "Popular casinos in Thailand",
+    "popularCasinosBangladesh": "Popular casinos in Bangladesh",
+    "popularCasinosPhilippines": "Popular casinos in Philippines",
+    "alternativeLink": "Alternative link",
+    "viewAllPromotions": "View all promotions",
+    "joinPromotion": "Join the Promotion",
+    "newMembersWith": "New members with",
+    "bahtForFree": "baht for free.",
+    "gameCategories": "Game Categories",
+    "jackpot": "Jackpot",
+    "vipClub": "VIP Club",
+    "exclusiveRewards": "Exclusive rewards",
+    "celebrateVictory": "Celebrate your big victory at",
+    "popularGameNationwide": "A popular game loved by players nationwide.",
+    "dontMissPromotion": "Don't miss this amazing special promotion!",
+    "notFound": "Casino not found.",
+    "backToThailand": "Back to Thailand casinos",
+    "breadcrumbThailand": "Thailand",
+    "catVpn": "VPN",
+    "catHotGames": "Hot games",
+    "catLiveCasino": "Live casino",
+    "catSlots": "Slots",
+    "catSport": "Sport",
+    "catFishGames": "Fish games",
+    "catLottery": "Lottery"
+  },
+  "country": {
+    "thailand": "Casinos in Thailand",
+    "bangladesh": "Casinos in Bangladesh",
+    "philippines": "Casinos in Philippines"
+  },
+  "promo": {
+    "turnover": "Turnover",
+    "totalWins": "Total Wins",
+    "maxWithdrawal": "Max Withdrawal",
+    "gameType": "Game Type",
+    "joinNow": "Join Now",
+    "allPromotions": "All Promotions"
+  },
+  "common": {
+    "more": "More"
+  },
+  "games": {
+    "pageTitle": "Find best games for you",
+    "pageDesc": "Explore the most popular online games including slots, live casino games, fishing games, table games, sports betting and more. Filter by category, provider, or search by title to quickly find your favourite games to play.",
+    "searchPlaceholder": "Search games or providers",
+    "allProviders": "All Providers",
+    "winningRate": "Winning Rate",
+    "highestWinning": "Highest Winning",
+    "bet": "Bet",
+    "win": "Win",
+    "playNow": "Play now",
+    "moreReviews": "More reviews",
+    "gameOverview": "Game Overview",
+    "howToPlay": "How to Play",
+    "notFound": "Game not found.",
+    "volatility": "Volatility",
+    "released": "Released",
+    "rtp": "RTP",
+    "backToGames": "Back to Games",
+    "categories": {
+      "all": "All games",
+      "slots": "Slots",
+      "live": "Live casino",
+      "table": "Table games",
+      "fishing": "Fishing",
+      "sports": "Sports",
+      "other": "Other"
+    }
+  },
+  "gameDetails": {
+    "super-ace": {
+      "shortDescription": "The most popular slot in Southeast Asia featuring card-based mechanics and massive multipliers.",
+      "overview": "Super ACE is a medium volatility slot game developed by JILI. With an RTP of 97% and a player rating of 4.8/5, it stands as one of the most popular titles in the JILI lineup. Key features include Free Spins, Multipliers and Wild Cards, giving players the chance to hit massive wins from card-style symbols and stacked rewards.",
+      "howToPlay": [
+        { "title": "Choose your bet", "description": "Set your preferred bet amount before spinning the reels." },
+        { "title": "Spin & watch for wins", "description": "Press the spin button and watch for matching card symbols and wilds that can trigger big payouts." },
+        { "title": "Trigger free spins", "description": "Land the required scatter symbols to unlock free spins with increasing multipliers for even larger rewards." }
+      ]
+    },
+    "fortune-rabbit": {
+      "shortDescription": "A charming slot inspired by the Year of the Rabbit, offering surprise features and big win potential.",
+      "overview": "Fortune Rabbit from PG Soft blends a cute art style with rewarding mechanics. The game focuses on simple, approachable gameplay with random features that can boost your wins. It is popular among players who enjoy medium volatility and frequent bonus hits.",
+      "howToPlay": [
+        { "title": "Set your stake", "description": "Adjust the bet size to fit your bankroll before you begin spinning the reels." },
+        { "title": "Trigger bonus features", "description": "Spin to land winning combinations and watch for random bonus features that can boost your total payout." },
+        { "title": "Manage your session", "description": "Use win and loss limits to keep your gaming session fun and controlled while chasing big wins." }
+      ]
+    },
+    "caishen-wins": {
+      "shortDescription": "A fan-favourite Asian-themed slot featuring the God of Wealth and an exciting free spins feature.",
+      "overview": "Caishen Wins combines vibrant visuals with engaging gameplay. Climb the temple steps to unlock free spins and multipliers, and enjoy a mix of base-game hits and bonus rounds built around the God of Wealth theme.",
+      "howToPlay": [
+        { "title": "Select your wager", "description": "Use the bet controls to set your wager level based on your budget." },
+        { "title": "Collect winning symbols", "description": "Spin the reels to collect winning combinations. Special symbols can help you unlock free spins and higher multipliers." },
+        { "title": "Enter free spins mode", "description": "Land the required scatter symbols to trigger free spins, where multipliers can significantly increase your total win." }
+      ]
+    },
+    "sexy-baccarat": {
+      "shortDescription": "A live-dealer baccarat table featuring professional hosts, side bets and real-time streaming.",
+      "overview": "Sexy Baccarat Classic is a live baccarat experience streamed in HD with friendly dealers and a stylish studio setting. Players can place standard Player, Banker or Tie bets as well as select side bets for more variety.",
+      "howToPlay": [
+        { "title": "Join the live table", "description": "Open the game and wait for the next betting round to begin before placing your chips." },
+        { "title": "Place your bets", "description": "Choose between Player, Banker, Tie or available side bets, then confirm your wager before the timer expires." },
+        { "title": "Watch the outcome", "description": "The dealer draws the cards and the side with the closest total to nine wins. Payouts are made automatically." }
+      ]
+    },
+    "jackpot-joker": {
+      "shortDescription": "A classic-style slot with modern graphics and the chance to hit impressive jackpot-style wins.",
+      "overview": "Jackpot Joker offers a familiar slot experience with bold symbols and straightforward mechanics. The focus is on chasing larger wins through stacked symbols and bonus features designed around the Joker character.",
+      "howToPlay": [
+        { "title": "Adjust the coin value", "description": "Choose your coin value and number of lines to set your total bet per spin." },
+        { "title": "Spin and match symbols", "description": "Press spin and land matching symbols on active paylines from left to right to receive payouts." },
+        { "title": "Aim for jackpot-style wins", "description": "Watch for special Joker symbols and bonus rounds that can unlock the largest potential rewards." }
+      ]
+    },
+    "super-niubi": {
+      "shortDescription": "An energetic table-style game with fast rounds and multiple betting options for experienced players.",
+      "overview": "Super Niubi is tailored for players who enjoy fast-paced betting and table action. With simple rules but many bet combinations, it rewards both strategy and luck across quick-fire rounds.",
+      "howToPlay": [
+        { "title": "Learn the betting options", "description": "Review the paytable to understand the different bets and their respective payouts." },
+        { "title": "Place your chips", "description": "Use the chip controls to select your wager amount and place bets on the layout before the round starts." },
+        { "title": "Follow the game result", "description": "Once bets are closed, watch the round resolve and see which bets are paid out according to the results." }
+      ]
+    },
+    "dragon-tiger-deluxe": {
+      "shortDescription": "A streamlined live table game where Dragon and Tiger go head to head in quick rounds.",
+      "overview": "Dragon Tiger Deluxe keeps rules simple: two cards are dealt, one to Dragon and one to Tiger. Players bet on which side will receive the higher card or on a Tie, making it ideal for those who enjoy rapid live casino action.",
+      "howToPlay": [
+        { "title": "Join a table", "description": "Enter the live lobby, select Dragon Tiger Deluxe and wait for the next betting window." },
+        { "title": "Place Dragon or Tiger bets", "description": "Bet on Dragon, Tiger or Tie, and confirm your wager before the countdown ends to join the round." },
+        { "title": "Check the winning side", "description": "The dealer reveals both cards. The higher card wins and payouts are awarded automatically to winning bets." }
+      ]
+    },
+    "sugar-rush-1000": {
+      "shortDescription": "A high-volatility candy slot packed with multipliers and tumbling wins for massive potential payouts.",
+      "overview": "Sugar Rush 1000 is a fast-paced video slot from Pragmatic Play featuring a colourful candy theme, cascading reels and multiplier spots that can build up for huge wins. Match candy symbols across the reels, trigger free spins and watch multipliers stack up as you land consecutive hits.",
+      "howToPlay": [
+        { "title": "Choose your bet", "description": "Set your preferred stake per spin using the bet controls before you start playing." },
+        { "title": "Spin the reels", "description": "Press the spin button and aim to land clusters of matching candy symbols anywhere on the grid for a win." },
+        { "title": "Build multipliers", "description": "Winning clusters increase multipliers on their positions. Trigger free spins to fully benefit from stacked multipliers." }
+      ]
+    },
+    "lucky-gold-pots": {
+      "shortDescription": "An Irish-themed slot packed with wilds, multipliers and colourful animations around pots of gold.",
+      "overview": "Lucky Gold Pots invites players to chase pots of gold across the reels. With stacked wilds, scatter payouts and a feature-packed free spins round, the game delivers both charm and solid win potential.",
+      "howToPlay": [
+        { "title": "Set your coin size", "description": "Adjust the coin value and number of lines to control the total cost per spin." },
+        { "title": "Spin for winning lines", "description": "Press spin and line up matching symbols on active paylines from left to right to secure standard payouts." },
+        { "title": "Trigger bonus features", "description": "Land scatter symbols or special bonus icons to unlock free spins and other bonus features with higher rewards." }
+      ]
+    },
+    "ocean-treasure-hunt": {
+      "shortDescription": "An underwater-themed fishing game where you shoot at colourful sea creatures for instant rewards.",
+      "overview": "Ocean Treasure Hunt reimagines slot-style payouts as a fishing shooter. Players select their bullet value and fire at targets on screen, with different sea creatures paying out at different rates.",
+      "howToPlay": [
+        { "title": "Pick your bullet value", "description": "Set the cost per shot according to your bankroll before entering the fishing room." },
+        { "title": "Aim at targets", "description": "Use the controls to move your cannon and fire at fish and special targets that swim across the screen." },
+        { "title": "Collect instant wins", "description": "Each defeated target pays out according to its multiplier. Keep an eye out for rare creatures with the biggest rewards." }
+      ]
+    }
+  },
+  "cards": {
+    "desc": {
+      "gxy888": "Welcome to the casino! 🎁 Get 500 baht free! 🎁",
+      "luk666": "Welcome to LUK666! Huge first deposit bonus!!!",
+      "heng9999": "Make your first deposit and receive a free bonus of 2,490.",
+      "777ww": "New members, we challenge you to try it out and receive a full bonus!",
+      "ubet89": "Ubet89, a trending casino in 2025.",
+      "88fed": "88FED is a direct casino website offering a full range of services.",
+      "betluckmak": "Sign up today and receive free credit! No deposit required. Withdrawals are real.",
+      "550ww": "New members with 550WW receive 100 baht for free.",
+      "borojeet": "Welcome to BoroJeet BD",
+      "welcome500": "Welcome to the casino! 🎁 Get 500 baht free! 🎁",
+      "firstDeposit400": "First Deposit 400% Bonus"
+    }
+  },
+  "footer": {
+    "certifiedBy": "website is certified by:",
+    "copyright": "All rights reserved."
+  }
+}

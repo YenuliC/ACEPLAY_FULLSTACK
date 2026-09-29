@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "home": "首页",
+    "casinos": "赌场",
+    "games": "游戏"
+  },
+  "hero": {
+    "title": "2026年最佳在线赌场",
+    "subtitle": "通过专家评测、真实测试、国际排名、透明可验证，加上免费奖金和独家促销，找到适合您的完美赌场 —",
+    "subtitle2": "ACEPlay 引领在线游戏行业！",
+    "allCasinos": "全部赌场"
+  },
+  "sections": {
+    "topCasinos": "泰国顶级赌场",
+    "topCasinosBangladesh": "孟加拉国顶级赌场",
+    "topCasinosPhilippines": "菲律宾顶级赌场",
+    "topCasinosDesc": "我们审查了顶级在线赌场的最新奖金。我们的专家比较欢迎奖金和无存款优惠等热门优惠，向您展示如何在真钱游戏中获得最大价值。",
+    "popularGames": "泰国热门游戏",
+    "popularGamesBangladesh": "孟加拉国最佳游戏",
+    "popularGamesPhilippines": "菲律宾最佳游戏",
+    "popularGamesDesc": "我们审查了顶级在线赌场的最新奖金，比较热门优惠。",
+    "promotions": "独家促销丰厚奖金",
+    "promotionsDesc": "我们审查了顶级在线赌场的最新奖金，比较热门优惠。",
+    "beginnerGuide": "在线投注新手指南",
+    "beginnerGuideDesc": "刚接触在线赌场？从我们的简单指南开始，了解奖金如何运作，如何安全存款以及选择适合您风格的游戏。",
+    "discoverMore": "了解更多",
+    "guideLabel": "指南"
+  },
+  "guides": {
+    "g1": { "title": "选择值得信赖的赌场。", "description": "选择一个值得信赖、评分高、公平且提供安全交易的网站。" },
+    "g2": { "title": "了解您的福利。", "description": "了解每个平台提供的优惠，例如返现、VIP奖励和每日促销。" },
+    "g3": { "title": "领取欢迎奖金。", "description": "通过我们为新会员提供的欢迎奖金优惠提升您的初始存款。" },
+    "g4": { "title": "安全存款。", "description": "使用安全加密的支付方式向您的赌场账户存入资金。" },
+    "g5": { "title": "探索并游玩游戏。", "description": "享受老虎机、打鱼游戏、真人赌场、体育投注等热门游戏。" },
+    "g6": { "title": "提取您的奖金。", "description": "提款简便，提供快速安全的支付选项。" }
+  },
+  "casino": {
+    "pageTitle": "在您附近找到可靠的赌场。",
+    "pageDesc": "发现我们在您所在国家推荐的赌场！享受热门促销、安全系统以及简便快捷的存款和提款。我们只选择值得信赖的在线赌场，让您放心游玩。",
+    "payment": "支付方式",
+    "topCasinos": "顶级赌场",
+    "findLocalCasino": "查找本地赌场",
+    "deposit": "存款",
+    "bonus": "奖金",
+    "receive": "获得",
+    "depositRange": "存款范围",
+    "withdrawalRange": "提款范围",
+    "viewMore": "查看更多",
+    "getPromotion": "立即获取促销",
+    "popularCasinosDesc": "我们审查了领先在线赌场的最新奖金，比较欢迎奖金和无存款促销等优质优惠。",
+    "popularCasinosThailand": "泰国热门赌场",
+    "popularCasinosBangladesh": "孟加拉国热门赌场",
+    "popularCasinosPhilippines": "菲律宾热门赌场",
+    "alternativeLink": "备用链接",
+    "viewAllPromotions": "查看全部促销",
+    "joinPromotion": "参加促销",
+    "newMembersWith": "新会员与",
+    "bahtForFree": "泰铢免费获得。",
+    "gameCategories": "游戏类别",
+    "jackpot": "累积奖金",
+    "vipClub": "VIP俱乐部",
+    "exclusiveRewards": "独家奖励",
+    "celebrateVictory": "在此庆祝您的大胜",
+    "popularGameNationwide": "全国玩家都喜爱的热门游戏。",
+    "dontMissPromotion": "不要错过这个精彩的特别促销！",
+    "notFound": "未找到赌场。",
+    "backToThailand": "返回泰国赌场",
+    "breadcrumbThailand": "泰国",
+    "catVpn": "VPN",
+    "catHotGames": "热门游戏",
+    "catLiveCasino": "真人赌场",
+    "catSlots": "老虎机",
+    "catSport": "体育",
+    "catFishGames": "捕鱼游戏",
+    "catLottery": "彩票"
+  },
+  "country": {
+    "thailand": "泰国赌场",
+    "bangladesh": "孟加拉国赌场",
+    "philippines": "菲律宾赌场"
+  },
+  "promo": {
+    "turnover": "流水要求",
+    "totalWins": "总赢额",
+    "maxWithdrawal": "最高提款",
+    "gameType": "游戏类型",
+    "joinNow": "立即加入",
+    "allPromotions": "全部促销"
+  },
+  "common": {
+    "more": "更多"
+  },
+  "games": {
+    "pageTitle": "为您找到最佳游戏",
+    "pageDesc": "探索最受欢迎的在线游戏，包括老虎机、真人赌场游戏、捕鱼游戏、桌游、体育投注等。按类别、供应商筛选或按标题搜索。",
+    "searchPlaceholder": "搜索游戏或供应商",
+    "allProviders": "全部供应商",
+    "winningRate": "胜率",
+    "highestWinning": "最高奖金",
+    "bet": "投注",
+    "win": "赢得",
+    "playNow": "立即游玩",
+    "moreReviews": "更多评测",
+    "gameOverview": "游戏概览",
+    "howToPlay": "游戏玩法",
+    "notFound": "未找到游戏。",
+    "volatility": "波动性",
+    "released": "发布日期",
+    "rtp": "回报率",
+    "backToGames": "返回游戏列表",
+    "categories": {
+      "all": "全部游戏",
+      "slots": "老虎机",
+      "live": "真人赌场",
+      "table": "桌游",
+      "fishing": "捕鱼游戏",
+      "sports": "体育",
+      "other": "其他"
+    }
+  },
+  "gameDetails": {
+    "super-ace": {
+      "shortDescription": "东南亚最受欢迎的老虎机，具有纸牌机制和巨额倍数。",
+      "overview": "Super ACE是由JILI开发的中等波动性老虎机游戏。拥有97%的RTP和4.8/5的玩家评分，它是JILI阵容中最受欢迎的作品之一。主要特点包括免费旋转、倍数和百搭牌。",
+      "howToPlay": [
+        { "title": "选择您的投注额", "description": "在旋转转轴之前设置您喜欢的投注金额。" },
+        { "title": "旋转并观察获胜", "description": "按旋转按钮，观察匹配的纸牌符号和百搭牌，这些可以触发大奖。" },
+        { "title": "触发免费旋转", "description": "落下所需的散乱符号以解锁带有递增倍数的免费旋转。" }
+      ]
+    },
+    "fortune-rabbit": {
+      "shortDescription": "一款受兔年启发的迷人老虎机，提供惊喜功能和丰厚奖金潜力。",
+      "overview": "PG Soft的Fortune Rabbit将可爱的艺术风格与奖励机制融合在一起。游戏专注于简单易上手的玩法，具有可以提升您赢利的随机功能。",
+      "howToPlay": [
+        { "title": "设置您的赌注", "description": "在开始旋转转轴之前，根据您的资金调整投注大小。" },
+        { "title": "触发奖励功能", "description": "旋转以落下获胜组合，并观察可以提升总奖金的随机奖励功能。" },
+        { "title": "管理您的游戏", "description": "使用赢输限额，保持游戏乐趣和掌控，同时追求大奖。" }
+      ]
+    },
+    "caishen-wins": {
+      "shortDescription": "备受喜爱的亚洲主题老虎机，以财神为主角，具有令人兴奋的免费旋转功能。",
+      "overview": "Caishen Wins将充满活力的视觉效果与引人入胜的玩法相结合。攀登庙宇台阶以解锁免费旋转和倍数奖励。",
+      "howToPlay": [
+        { "title": "选择您的赌注", "description": "使用投注控制根据您的预算设置赌注级别。" },
+        { "title": "收集获胜符号", "description": "旋转转轴以收集获胜组合。特殊符号可以帮助您解锁免费旋转和更高倍数。" },
+        { "title": "进入免费旋转模式", "description": "落下所需的散乱符号以触发免费旋转，倍数可以显著增加您的总赢额。" }
+      ]
+    },
+    "sexy-baccarat": {
+      "shortDescription": "配有专业主持人、边注和实时直播的真人庄家百家乐桌。",
+      "overview": "Sexy Baccarat Classic是以高清画质直播的真人百家乐体验，配有友好的荷官和时尚的演播室环境。玩家可以下注庄家、闲家或和局。",
+      "howToPlay": [
+        { "title": "加入真人桌", "description": "打开游戏，等待下一个投注轮开始后再放置筹码。" },
+        { "title": "下注", "description": "在闲家、庄家、和局或可用边注之间选择，然后在计时器到期前确认赌注。" },
+        { "title": "观察结果", "description": "荷官发牌，点数最接近九点的一方获胜。赔付自动完成。" }
+      ]
+    },
+    "jackpot-joker": {
+      "shortDescription": "具有现代图形和赢得令人印象深刻的累积奖金机会的经典风格老虎机。",
+      "overview": "Jackpot Joker提供熟悉的老虎机体验，配有醒目的符号和直观的机制，专注于通过叠放符号和以小丑角色为主题的奖励功能追求更大的奖金。",
+      "howToPlay": [
+        { "title": "调整硬币价值", "description": "选择您的硬币价值和线数以设置每次旋转的总投注额。" },
+        { "title": "旋转并匹配符号", "description": "按旋转并在活跃支付线上从左到右落下匹配符号以获得赔付。" },
+        { "title": "目标是累积奖金式赢利", "description": "观察可以解锁最大潜在奖励的特殊小丑符号和奖励轮。" }
+      ]
+    },
+    "super-niubi": {
+      "shortDescription": "为经验丰富的玩家提供快速轮次和多种投注选项的活力桌游。",
+      "overview": "Super Niubi专为喜欢快节奏投注和桌面游戏的玩家设计。规则简单但投注组合丰富，在快速轮次中奖励策略和运气。",
+      "howToPlay": [
+        { "title": "了解投注选项", "description": "查看赔率表以了解不同的投注及其相应的赔付。" },
+        { "title": "放置筹码", "description": "使用筹码控制选择您的赌注金额，并在轮次开始前在布局上下注。" },
+        { "title": "跟进游戏结果", "description": "投注关闭后，观察轮次结算，查看哪些投注根据结果获得赔付。" }
+      ]
+    },
+    "dragon-tiger-deluxe": {
+      "shortDescription": "龙与虎在快速轮次中正面交锋的精简版真人桌游。",
+      "overview": "Dragon Tiger Deluxe规则简单：发两张牌，一张给龙，一张给虎。玩家押注哪方会拿到点数更高的牌，或者押注平局。",
+      "howToPlay": [
+        { "title": "加入桌游", "description": "进入真人大厅，选择Dragon Tiger Deluxe并等待下一个投注窗口。" },
+        { "title": "押注龙或虎", "description": "押注龙、虎或平局，并在倒计时结束前确认赌注。" },
+        { "title": "查看获胜方", "description": "荷官揭示两张牌。点数较高的牌获胜，赔付自动发放给赢家。" }
+      ]
+    },
+    "sugar-rush-1000": {
+      "shortDescription": "充满倍数和滚动赢利的高波动性糖果老虎机，具有巨额潜在赔付。",
+      "overview": "Sugar Rush 1000是Pragmatic Play推出的快节奏视频老虎机，具有色彩缤纷的糖果主题、瀑布式转轴和可以累积成巨大奖金的倍数点。",
+      "howToPlay": [
+        { "title": "选择您的投注额", "description": "在开始游玩之前，使用投注控制设置每次旋转的首选赌注。" },
+        { "title": "旋转转轴", "description": "按旋转按钮，争取在网格任意位置落下匹配糖果符号的集群获胜。" },
+        { "title": "积累倍数", "description": "获胜集群会增加其位置上的倍数。触发免费旋转以充分利用叠放的倍数。" }
+      ]
+    },
+    "lucky-gold-pots": {
+      "shortDescription": "爱尔兰主题老虎机，配有百搭牌、倍数和围绕金罐的彩色动画。",
+      "overview": "Lucky Gold Pots邀请玩家在转轴上追逐金罐。配有叠放的百搭牌、散乱赔付和功能丰富的免费旋转轮，游戏既有魅力又有稳定的赢利潜力。",
+      "howToPlay": [
+        { "title": "设置您的硬币大小", "description": "调整硬币价值和线数以控制每次旋转的总费用。" },
+        { "title": "旋转赢得支付线", "description": "按旋转并在活跃支付线上从左到右排列匹配符号以获得标准赔付。" },
+        { "title": "触发奖励功能", "description": "落下散乱符号或特殊奖励图标以解锁免费旋转和其他具有更高奖励的奖励功能。" }
+      ]
+    },
+    "ocean-treasure-hunt": {
+      "shortDescription": "水下主题捕鱼游戏，向五彩缤纷的海洋生物射击以获得即时奖励。",
+      "overview": "Ocean Treasure Hunt将老虎机式赔付重新想象为捕鱼射击游戏。玩家选择子弹价值并向屏幕上的目标射击，不同的海洋生物以不同的比率赔付。",
+      "howToPlay": [
+        { "title": "选择您的子弹价值", "description": "在进入捕鱼室之前，根据您的资金设置每次射击的费用。" },
+        { "title": "瞄准目标", "description": "使用控制移动您的炮台，向游过屏幕的鱼和特殊目标射击。" },
+        { "title": "收集即时奖励", "description": "每个被击败的目标按其倍数赔付。注意具有最大奖励的稀有生物。" }
+      ]
+    }
+  },
+  "cards": {
+    "desc": {
+      "gxy888": "欢迎来到赌场！🎁 免费获得500泰铢！🎁",
+      "luk666": "欢迎来到LUK666！超大首存红利！！！",
+      "heng9999": "首次存款即可获得2,490的免费红利。",
+      "777ww": "新会员，我们挑战您尝试并获得全额红利！",
+      "ubet89": "Ubet89，2025年热门赌场。",
+      "88fed": "88FED是一家提供全方位服务的直营赌场网站。",
+      "betluckmak": "立即注册，获得免费积分！无需存款，真实提现。",
+      "550ww": "550WW新会员免费获得100泰铢。",
+      "borojeet": "欢迎来到BoroJeet BD",
+      "welcome500": "欢迎来到赌场！🎁 免费获得500泰铢！🎁",
+      "firstDeposit400": "首次存款400%红利"
+    }
+  },
+  "footer": {
+    "certifiedBy": "网站认证：",
+    "copyright": "版权所有。"
+  }
+}

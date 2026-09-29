@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --ace-gold: #F6B021;
+  --ace-orange: #F27F10;
+  --ace-black: #000000;
+  --ace-bg-dark: #050608;
+  --ace-gradient: linear-gradient(135deg, #F6B021 0%, #F27F10 100%);
+  --ace-radius: 12px;
+  --ace-radius-sm: 8px;
+  --ace-font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --ace-shadow-lg: 0 20px 60px rgba(0, 0, 0, 0.25);
+
+  /* Auth pages — dark text on white cards (unchanged) */
+  --ace-bg-card: #ffffff;
+  --ace-bg-page: #f4f4f5;
+  --ace-border: #e4e4e7;
+  --ace-text: #18181b;
+  --ace-text-muted: #71717a;
+  --ace-text-light: #a1a1aa;
+  --ace-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+}
+
+/* ── Admin panel dark theme ───────────────────────────────────────────── */
+.admin-shell {
+  --ace-font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --ace-bg-card: #12151c;
+  --ace-bg-page: #050608;
+  --ace-bg-input: #1a1f2e;
+  --ace-bg-elevated: #161b26;
+  --ace-border: #2a3142;
+  --ace-border-dark: #1e2633;
+  --ace-text: #e8eaed;
+  --ace-text-muted: #9aa0ab;
+  --ace-text-light: #6b7280;
+  --ace-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+
+  min-height: 100vh;
+  background: var(--ace-bg-page);
+  color: var(--ace-text);
+  font-family: var(--ace-font);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: var(--ace-font);
+  -webkit-font-smoothing: antialiased;
+}
+
+.admin-header {
+  background: var(--ace-black);
+  color: #fff;
+  padding: 0 28px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 2px solid var(--ace-gold);
+}
+
+.admin-logo { display: flex; align-items: center; gap: 10px; }
+.admin-logo-icon { font-size: 26px; color: var(--ace-gold); }
+.admin-logo-text { font-size: 20px; font-weight: 800; color: #fff; letter-spacing: -0.02em; }
+.admin-logo-text em { color: var(--ace-gold); font-style: normal; font-weight: 800; }
+
+.admin-nav { display: flex; align-items: center; gap: 8px; }
+.admin-nav-link {
+  color: rgba(255, 255, 255, 0.65);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 8px 14px;
+  border-radius: var(--ace-radius-sm);
+  transition: all 0.2s;
+}
+.admin-nav-link:hover,
+.admin-nav-link.active {
+  background: rgba(246, 176, 33, 0.15);
+  color: var(--ace-gold);
+}
+
+.admin-logout {
+  background: transparent;
+  border: 1.5px solid rgba(255, 255, 255, 0.25);
+  color: rgba(255, 255, 255, 0.7);
+  padding: 7px 16px;
+  border-radius: var(--ace-radius-sm);
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  transition: all 0.2s;
+  margin-left: 4px;
+}
+.admin-logout:hover {
+  background: #dc2626;
+  border-color: #dc2626;
+  color: #fff;
+}
+
+.admin-main { max-width: 1100px; margin: 0 auto; padding: 28px 24px 48px; }
+.admin-main-wide { max-width: 960px; }
+
+.admin-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--ace-text);
+  margin: 0 0 20px;
+  letter-spacing: -0.02em;
+}
+
+.admin-breadcrumb { margin-bottom: 12px; }
+.admin-breadcrumb a {
+  color: var(--ace-gold);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.admin-breadcrumb a:hover { color: var(--ace-orange); }
+
+.admin-btn-primary {
+  display: inline-block;
+  background: var(--ace-gradient);
+  color: var(--ace-black);
+  padding: 10px 20px;
+  border-radius: var(--ace-radius-sm);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.2s, transform 0.15s;
+}
+.admin-btn-primary:hover { opacity: 0.92; transform: translateY(-1px); }
+
+.admin-card {
+  background: var(--ace-bg-card);
+  border-radius: var(--ace-radius);
+  border: 1px solid var(--ace-border);
+  padding: 28px;
+  box-shadow: var(--ace-shadow);
+}
+
+.admin-shell .admin-error {
+  background: rgba(220, 38, 38, 0.12);
+  color: #fca5a5;
+  border: 1px solid rgba(220, 38, 38, 0.3);
+  border-radius: var(--ace-radius-sm);
+  padding: 12px 16px;
+  margin-bottom: 16px;
+  font-size: 14px;
+}
+
+.admin-state {
+  padding: 48px 24px;
+  text-align: center;
+  color: var(--ace-text-muted);
+  font-size: 15px;
+}
+.admin-shell .admin-state a { color: var(--ace-gold); font-weight: 600; text-decoration: none; }
+.admin-shell .admin-state a:hover { color: var(--ace-orange); }
+.admin-shell .admin-state-error { color: #f87171; }
